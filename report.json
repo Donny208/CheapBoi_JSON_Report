@@ -12,7 +12,7 @@
             "toReturnStops": 0,
             "localDepartTime": "09/06/2023 10:55 AM",
             "localReturnHomeTime": "09/13/2023 07:03 PM",
-            "url": "https://www.kiwi.com/deep?affilid=donwwrightcheap&currency=USD&flightsId=048d0a894c964c9dc1290050_0%7C048d0a894c964c9dc1290050_1&from=BOI&lang=en&passengers=1&to=ORD&booking_token=FALuKybaOnj5KvmVu9M3LDt4BkBC0LZcz9cLakCVGeWI7g_7Jmw8AbMnPjBGvvlwiXnnnnDwpY6h0m5Ov62wJtIK8gtwk67kvKjEHvUz3OLQyrUgwb-TlX-gQ0rfFEZK0Zj8s6FjXMCSaYjc1v85s7-LfxiX7oFlRWfDqH2CEmX5ZRS8YxxSndEKpIoHKe8PcYjOZDhl-O1sL3TyQEuSsA16acVccYqsGDnv0SoWcsgrxPpJke0NVenVJL3aVbffxTfMZO0y9UwBD5cZmy05Ezu4IPG3CLTPZiUX-4Yh1KjKzsoBjlMjlYAOUaYwpcwmwCu4pnn9Msm_Ksu058gmOKLxzB88qJwTWqCEcSmPR2N-mNFpI3ibsXu8Yb44AHVr1Hb53uEbBoqzvNDQfY95KAnYJbt3yKCjmpNVgZUVQFMvfke8OIuPyKUaJ3KOAJU9vERFnIyXvdlMCIcRQLSI0_w92x9V866UXPpGuQjJmBkVKLTGu9RyeAq7fDyk9Dz-YnAjNjyAeDtJwWpjrMK5ai3MJR5TJAr-oxl2iLoj5IM_s6D0zjJ5uog425pKFNv6XQLPl7KAM3oEO4j_pexY9-ybOFQkmqpV2Aku-cedRyU5lQvys6Qaqv8zdkP-MJE9k1BhLzJCmJNlRvfkqhm4SYWXdQChGrVK454at1PnUsveHkuZrhVpMS1IPwdX7uRCmHtppYXm03jgHFQMfKVjM0JQQEgTSbpiKvdjS90s-sMVBSxgkdstFpftx-ubzv1GFZMSRVF5hya5s5rm4bn8GtQ=="
+            "url": "https://www.kiwi.com/deep?affilid=donwwrightcheap&currency=USD&flightsId=048d0a894c964c9dc1290050_0%7C048d0a894c964c9dc1290050_1&from=BOI&lang=en&passengers=1&to=ORD&booking_token=F7-ifSUHazvNKsuxvUPMwjcOrxmEsjpEQqvtN4pt5OLeQ2WK37qIHAPe3nxr-fQS_e7D5JVSPweOG7KV0TcBNMsBi_pbuPWhCppNEkXl1VFbhlTrSh0uYfubXTk-SV36E3uV5sLxciWpQw5aXz1ZXcfzehErXVwmvN38B8lFmtpxr8w0Dwe87dGCH7K1wRLVX8oo31o8mK6hqmAiB4poiUv5mgIYpNgs6rMzTc4YhLWoLBlwJH3rnacrBPWt77HpBg0Xr3hmhsgfO7UgzcYFaNx4UOeDDtd-oG55824Hd4AoRALdzfceCc_hy5Y4ObdJdOUvTd_M2O4dzsrMcWuEsqKha22_4W884mJGecOBL912wR3Nrmk7UFFl-vfvc0N8sS3e-PVFUMt6qWlRXVhW-c8QX26C3WwGwdGVrTpSb1KDfLdh3gCE3bX7V2wTw1P3bKdYYPDedv06pIcJnOnbOstDIJLQFiYRzTV02jd7xGXMO7Ati1Bi4aeZVjXH_1z-Q-6AidkhnCbizU8lVy2oH7RvOcBLkZK76tMNKPoA68P6jshKvmJUVNPLihIeUzPiLorrv9r-cPSSo6SjP7sDEkLUZd_tyxFZa_RJcZxXTLwzYFD0IPrE4dkOAI4cHWybFLANc9EUFI8UK2LMgH4Sr8eMuaBfH-LQv55y8JI7O_Qov0PSu6wxfiAHbYByYNIoMbO872P9eappOdKpdjT5HxO7qatAlIg4RkkgoPAKcM4e2UGmV2Ydyfz9kJGKn9xSBCR51_ou4-iN3CkpNsoXIkg=="
         },
         {
             "title": "Boise -> Tokyo",
@@ -20,13 +20,13 @@
             "flyTo": "HND",
             "cityFrom": "Boise",
             "cityTo": "Tokyo",
-            "nightsInDest": 11,
-            "price": 1114.0,
-            "toDestStops": 1,
+            "nightsInDest": 12,
+            "price": 927.0,
+            "toDestStops": 2,
             "toReturnStops": 1,
-            "localDepartTime": "10/04/2023 06:59 PM",
-            "localReturnHomeTime": "10/17/2023 09:53 PM",
-            "url": "https://www.kiwi.com/deep?affilid=donwwrightcheap&currency=USD&flightsId=048d243e4cb20000b0e3141d_0%7C243e097b4cb3000036d8b80f_0%7C097b243e4cbf00008c22e791_0%7C243e048d4cbf0000410ed43a_0&from=BOI&lang=en&passengers=1&to=HND&booking_token=FVVmjIRJLaiZVOxXU_0_8bmo8P3jdtb3xkcdn9bfg4lsYeWvNDRWM8L0lg6twNdYjsQpZ2-0ARRyE1N_K767ashVzzm97H15Rn37Ogc3qGJeDW4x5R9rzsCWFOBcsZOKLGAMB5BQR_0d4878FQEUs7lSwkXr2pzGk_pk7B8EtwKLCHvQ9Bktw1xgdfUS4S_tsdy-mPzQcpEjNTyRENQdKWcUuA0TIGsMwYmlyjf3xaAuEQ1PULdwSkzyQDkYDCAGzJwxjy-A3ObiZc8Lhl_LLwIcMxCVLVQp7h2qtwkl81UFPBkOyfz0p_FhUefFe2-H9M1uNDhd5Wtl-KZmUg-usVZJc5aWnRsNkgr9GY5l7CjOmSPPySOysLn_qtbR1YJV7hC1zmWvr28eK1nbNInJaDKu5et4dlkdCZFHtRxEfXyJe1O6pYmnzzm4mRf5RfPLDYqJWcrb2-erm3zqGvZe1_PLK7eq4ZqzsyOECS2hlc_eqkI45yRSvrDXvRMCH_bH0oXSH_OZfRkgtwVVKaSRQIyx4SZA72-TnOPuLZrtT6Z8Pz97Ts81RRzLkGx3gERFFKq-U_xzXZroBkFoStzneCorrbXXLL7AGTekFankCmYgmOxe-_xttUDnVxAZYJWDYWEegLWBWZlb4TbmG5jVezRCW-38euQuyrdKYIQ2oaAH9UBaGiYCyXZ7W46ol2DMT2NvKX5TW0CcCs8eifjqZ1u5iUzoUBihqJ3MU8mTQqRf0BAM2lKRPBPTdTF3Ki7exi4l4SuL1QINCyfIClrvUYOEqi_lR1w30Y0uwf-uahK1uW5ADTxZmFpT4HRiTQxT4iWTCTFeCYMjyD22yIun8J1AkIs91o2K_aZhb8eiDs9iG732MeqxPfHOv_rQRAETRnKxEl6ylCyZ2PU_cbNDTedVMNy3-i_qtOJOwZ9eyVFMCLS1Me4s32-5e7YrJl9v1QleM7orSdd3wtu13epOLTHo3zv_qyoJT9yyyOGRwXq07LyrdrQ3XQSXvUwWbTaBFAtAVdUDbUFMCAlxkTCf8ROoono2lgp7DnlLsYyZ6JmreA36W-LchfwWo-__yJpaTFHEK3LvLXpafI672I4ZYLA=="
+            "localDepartTime": "10/24/2023 07:08 PM",
+            "localReturnHomeTime": "11/08/2023 09:31 PM",
+            "url": "https://www.kiwi.com/deep?affilid=donwwrightcheap&currency=USD&flightsId=048d0f9c4cc60000f9ff08d9_0%7C0f9c097b4cc700008b2b0ba8_0%7C0f9c097b4cc700008b2b0ba8_1%7C097b243e4cd50000fc265159_0%7C243e048d4cd500006b40de95_0&from=BOI&lang=en&passengers=1&to=HND&booking_token=FjLiLbkkSGdB_BwIBF5xNfFRAap835MdC5U5PipgQgO6d0BtKK-w0GyjAHIw_UyyKD0mvF1lpUE_TbZap0pyCWa3848ARXg3HcpuqSDwnsQJhbsp7uw5_rjAtScnM4WwTU8hCFT37V4cHRUA9hVCbeUTq3pU5ZAVSR2182rqNXI8mdIIxk8G0VcCNsmhE_ldR0RgafGLj-FuXCHxvuBcBecu1hjyi0Bd6zb92X9-cT0VGhmrNsVxwbl6NX3RW9aFjV4XwcmneXl9NTYwP6E5WA7AdgZF0Il2VSiUR7CbR2xS5MFj9S6ohQbrkh8kpwh38AaaDMoJiFBzP9iBad4-FuNbaGk5jJQUBaAPVFhopF654eX48fhK2VlXoTAciENLGFybbBS3TYYTXEvk0PrvEwpWCvLZ8H9_1M5Gb7xQ-JL-hmsPE1ngVemVSatFxTUbz0PSVIPDfxEBgdJGp7cpD09AqWOdsM4V1tqsSqcZ_1LmTFnyR8jpdx6CxqgnJN-U7ArCRsvSdX4Ep828pzUFZu_X0E3-kDNojmAEz_bpyePFYHMTG2KZ01-UqepRoBKB9tkOtnVoQXF6buM_kdUWn0etNEozSaRMg-zx27XhtRc4-uNw022LY3NbaufDkiISCHNbBT5_58WKyn9mXsR4WMubBRD1y2nV6onOvrGzvc4Y9EYGLYqMGyYA2o-G-PUdJ-ZXTFDLQ6Si-csmWn_N2BdnH_q73CvKicJJr4R0BifwkQPmo7egV4r8ri1ctEKK8inxq9aFgL5s6lKHVhbxmbgSehJxVJkvtErV-XDhZ7wX0EdhYt_DdMLYYQlia13q4y1EOfHxWFbD8m7Ackp56q-gz1x51UEetCwz1cYbNeG09BnZ9aAuLRxsfuFJY48pdfeUxibTMMoDuHeuP2KcBPmZB8RG5Mb9FiTj2qJnGYiZuwSczwsYTir1DS7d96-iBCz9EasVHn5wb7DKaWEKEHEDQMmmHAOUoLXeIQdwcJKT61J9PGN5_KgsrEIa0zetRp6aFMNzSN3y3gRWQCUeq9v1rIsKgvDy9-mPJjA_A0pecNPZ5hv98zSPan44rYfMfUr5HUVzQxElmLGlTXhJzWWx4xV0tTne7Qbj7RXiqI8QYv5D2b_vKh2IMw8q_CeXCF3CZBvjUq7PXI-4GUWim6Q=="
         },
         {
             "title": "Boise -> Las Vegas",
@@ -35,12 +35,12 @@
             "cityFrom": "Boise",
             "cityTo": "Las Vegas",
             "nightsInDest": 4,
-            "price": 47.0,
+            "price": 46.0,
             "toDestStops": 0,
             "toReturnStops": 0,
             "localDepartTime": "07/03/2023 03:44 PM",
             "localReturnHomeTime": "07/07/2023 02:48 PM",
-            "url": "https://www.kiwi.com/deep?affilid=donwwrightcheap&currency=USD&flightsId=048d24464c550000b16150ef_0%7C2446048d4c590000e050fa62_0&from=BOI&lang=en&passengers=1&to=LAS&booking_token=FOwmSiH4K8k6a5ur1KeA1i2BTLWgfU1NxjpBs4pNhq48YQTg6xLxNGJQJFx-JA2_U7pxLi5oaK6RQcJbNqSmLYpWhWdPbB9HDZAWE9-AXKbvt_ez5ZOtFN80pD6CbaORGdjzFQ6mIhRdFbyKrmXR7nuDengOvJT77nXa9aHzmt-8zP2UKZmoEMs-ZuyRC01vo0SZIPjjpOs1Dr7TaIRTgxl51lJhnei5I4tk0R7Fa9rkRUQd_MLqUfXlDufOWyR4r159UztjTOSlRJ11hQhubLAARYu1mjJvaRnbe7bOUdB76vYwMV9oA2AWREK4TviHYGLJsNL1QPUdbWoFIHM_0KNghnfAUXBGrCypkU8i6sUzFMqPveRuI2_8fYVtql1p7ocggGaetmJTrjevJ2Bpk0xMvyPPwS3XqvVp1hiWThlzTCcM1186Lyk_Q_GXw59oUve4Vzkbekj7AM7NG-FmBypHJ9eLMJdmmxfmH--Fhgm5j__5ygtc2YIaMnHej9tMUyPB6pjsPoLIfcWy2DDq9E8OSQRalKFdmCXQDJtRsZlb91RG7HVQotU0yhaw340v4fX40pzsvGNX5FC28ZxwMWH23ffOppvUt6WSEQl2KZSphYR8qUFxHgou72_cwb3QcRY7NCbveGWyWQBQVxHX__DMZX_Bwz15Hosl-hO-JGy3rTTBvHYEQEONKFgxpNSOe3F188tFn_ysrds1x4TvkvZ0bqyou6V_-viAyhhTByN3HETP9C0UfkmMrEx6P5g6sdSYuFI7vbctDae63kZxFHVLoWKzZcbpBS3wZ9X4Qkb-Cql6g5kzHc5u5JSG50d_dvjPiOrtJO8JSEhXjuzzCzQo61-YKLt3bz3tRoC2Iyt0="
+            "url": "https://www.kiwi.com/deep?affilid=donwwrightcheap&currency=USD&flightsId=048d24464c550000b16150ef_0%7C2446048d4c590000e050fa62_0&from=BOI&lang=en&passengers=1&to=LAS&booking_token=FLoLFi0oSkjAe2YXOiw59yMmFKFtqPCXQjtF1FcmLm4rtEWytiWappXkLxFTPVXFdCPGW2gdA7SLZrRNyBIsSg6I9A0vmPHAPpdns_8qpjo1e_DvYD-HTfqt9zy4gMv5NM6MRTBiNpfqKo0quotK1ZqpQ-5-aJUTBjCP75SEUjtb6kTVlYVwBgjdye7aoM3-ZeFt38Snmqk20LR9eewZWLvRrRcMkmQ7yRRvvJCPiusbgAGu3J0q-53ljD4MZG4R_QCOwcltTNtTTBqFxB9h8VFnBqdVZHOco0AF6pRnLDTPos0zmC5Zs1F7blV-qqvywm7WU0L49igtQm8btpHxSSGqNv2gOkzl6JM57Qp4clmgoUXM0dcjDjwgCZaQUkY6ut0hEK1LOQHEdvie0b7lCjdsSjVOPrB68F5pUceZSrbEUqK4tNQpQkZzDm_9ZJyrMIkZA6hpe_PTdLKPvT0z_vtJ56gPvv2H9r0Go8jkJIGXBksVh3nxZgmA9pZS8zfARy9mRuaWzD0BaIKl6mh0Tr7tV-G2xuWrII08xn3DxwYsvCWbsl-mt9YesfGwPI5CbWueuxEKBVgjDwdwBelHSvZZEsKv_rd_mFRupkCD_ptctPVWcntnUt97o-18wAqHlkCDFB8ZJCIRg6DoiSxh1IZhvy1wJLhpCPMw1VZIkZiz7a-4KaTUDzVmzApK2Eh8QOtDZ-dii_ciT1XxO57GXDDSfbLfzecQRIRGNdZwWpPmbeFCnray3xb0pBTEJ_-NgFt0YLpQKOrTaYAkvxCgoNQqgcY1LG-AJ5_kLjeYKE0vtjz6nFZJ1C7HsC6fyI5sYHRHlecHLeQC2-AWMpymCkw=="
         },
         {
             "title": "Boise -> Islip",
@@ -54,7 +54,7 @@
             "toReturnStops": 1,
             "localDepartTime": "08/22/2023 03:49 PM",
             "localReturnHomeTime": "08/29/2023 06:06 PM",
-            "url": "https://www.kiwi.com/deep?affilid=donwwrightcheap&currency=USD&flightsId=048d24464c870000108764a5_0%7C2446169a4c8800000c6c2d96_0%7C169a170d4c8900003bb3bf07_0%7C170d08d74c8e000063bd3d3f_0%7C08d7048d4c8e000028dcfbcf_0&from=BOI&lang=en&passengers=1&to=ISP&booking_token=FAHF8fl7_ou6Cu5eOP57KIaEnrnn_LSdrHgzC3DaH9zXO6Agr2QSY0L3ybgNCG7OYJomRQhJidPh0k7LhZKWNX2QA4gJbsj3v9NRIL1PcqVAuFWTIvOkOhQksKrk7V5UvgDgNI6WnkP1t8fkDB_3EM7VlmUH-ZEh-LhnBK22MCpHb5_6kTusq6R1JzURo3CXNI_8aC0TU6sHsgMzEULxw_xdzb7CBT9fzRF7OVI0wZtm4E2pubP5D88-JFfYMnn6E7go1OTMkZvJCwPBKqYrOgR9u41wAg6t4Bq4jxxIcpIFPO7YHNMOGO5QeDuzDtOq4CaIdnSv8Gsit3S1fHj3Oo0xZEe-C2aJCIdPNLoazn-wU-qKQK1quDEn2r5G6F_tX0vuXepZLEGAzoM2s_SHtsrwZ3JpqoNXlTmRekqwAbVNR5bFZVST4N20X2Tik2cvBw9MeFwVRfVKHkBNDWRGFwJx_jMbyRZpCk4MDOpvVpmzAlgw6cowSDZDL3uNXzvGOJ0EQzDslyjImg3bvn9a-U_36DkuEwLO6g-2vIhS9qXtLVwg_WtSInxMo50URY6OGHTZaAC7-p_ONFC73wG3kpWN6SG3IxbDrk4dgSw76XmnT_Q7VAqk9oWFIknk184kjH1eyBq56EopocCPB9mz0IW37FEHrKNHpAiS7vSrH4sXf22h2RKpe2kPpCIzl6sylPJi2U03lMlyrTE8h_kigC8wesHsistLmToBpZTYTmFYx7AJwTF6B3WxPZVJOO1tiEhAqVdF6ip7szJNTNjrC7M2r-yKcztvUXRbpZ1D3lp-crDUbSc50cuI9RM57FzOXR6vRCTws2GxujnGE1uslr1IgQ-OiL7KDlBnl_H94Mh1a7rr7Dcyibo8ap0M0QuYwmXk2MGo0gtEGMuqOgGrzit0u2nTd_Ev0PXlm5Dk41Fx5_wmqugc0TL9TJnx2RCc6mKWcb5u6P45e2kJQkVXPZAbQM6mJR9QjMJ_Kw0YFLl9hktdu53n1r5vCDt2yHPA4dqtDM_DEyZHa8YW6kTO3EijKK9a07Z-vYgWDz2ftJ91U36is3iW0eyni8a0NE66BFMt6WdmhHD9-7vg--NRGZ4_BeaqSxfperLh27l5u1QtXPcV6U8QgwYcpzEUQh5iZrsFvwRrIykl7a8Kg0oniLWKNUFewlqBdm_0WbcDagcw="
+            "url": "https://www.kiwi.com/deep?affilid=donwwrightcheap&currency=USD&flightsId=048d24464c870000108764a5_0%7C2446169a4c8800000c6c2d96_0%7C169a170d4c8900003bb3bf07_0%7C170d08d74c8e000063bd3d3f_0%7C08d7048d4c8e000028dcfbcf_0&from=BOI&lang=en&passengers=1&to=ISP&booking_token=F5Z0-vpxG7oEDq5MqhXf4MNupkC46lye8aAr-iNuPjyh7F-5WpFU9cYOU2W37iwV6UgZ_1ZTBFAIvCR76sHkHXAjvDdGw2REWhlK_2WEHnV4fvjoVcPfdxJ8p0RHq4_SxhPjpF_oZgL5KUe8c-kXwosbowo8ustM4aCJGcEpq_IvftMmky8G-KMrHsbwPKIl-ljinDicww_lfUzlp8QZk84URTJ5yi78y5UaaK5GL4NgZKwaAkJ188eoaUyllKN9SxrzgRKBNmdnKNz9ofQ7grqcd5-T6Z7559NrZe4K4LsX53D1sGC53_-ybpl-s3R50Uo81zN3XU7nxtL6iOeAu4Lt_Mwh2-KPV8VRrenGDrrOsPc1tsvMf4UJd5sMPJrxv6J_4y2O39h8rh5il3hX5eq8U88mfkvUCLIEiX4RPIM41M8nHgUOuLNApAmAa5Ygv6gkguqhSvj8HwhS5PL_aYGnGDo21XN9yKciR2Py9vi7Vjp8-vy9A4zLPpc4JqppulyFNYRLXNmMyvJQW8CM-qQL4hAFnChAikKAcmOgY_Qei1qlIF-XUzF3QFvGbgp-RmehM36fFJfTBd2PRGCKD2ZJ3xJd1VPLK_7kQni23amt7pEOUiEtwQTDDkIdkROD84x3L8TtGwXt5nXe0b59Oza2aATiVGV4OtoXnB7SNZmfzdmnAnKY4JvofdMlEG0k_gH8ioPNhL5x3W87uXhTnxUs_k4TRRAZlfJu5I1Ps-cMlTsT_snkJB8ccZtalucMtEdwJY8CmpfSZyJazzVFGxh8wGzNXGdyxvC6f5RsAid2Ty3ECiRRt8LdwumGhmVX6gPPVuNkLFN92OJ3-A-hDFfUF1axE5dBFDMJ8rDpz6A6q0G5n1fJESu_LWUGpnnQNRUXDFHS9RJ9ZQk_dTaYJ4HEuV06fDz474lmZ3p3dc1pNGQEsyy2kW4Xvq3thedQTLTG_OT6c0DQnA32gxje5RNsUmmBzo_IxVF2Mct7UGHhXZlAcSto2E4J8GpDl-ymjTjiOWjZ4cImCTleWnAw_gE883TFi2tvrUPvWUpJ6v8X9zYuFo610xaRU2HzhQxCfRtijKN7rAy49kbRNH9DmO0Wki66ryIV-XgItcNIcwkfbXMEpw-dsr4i3cBk0n45eyQfITd13lZIQdhlE_3bG0w=="
         },
         {
             "title": "Boise -> Paris",
@@ -63,12 +63,12 @@
             "cityFrom": "Boise",
             "cityTo": "Paris",
             "nightsInDest": 11,
-            "price": 784.0,
+            "price": 786.0,
             "toDestStops": 1,
             "toReturnStops": 1,
-            "localDepartTime": "11/18/2023 03:10 PM",
+            "localDepartTime": "11/18/2023 01:15 PM",
             "localReturnHomeTime": "12/01/2023 04:27 PM",
-            "url": "https://www.kiwi.com/deep?affilid=donwwrightcheap&currency=USD&flightsId=048d25c34cdf4cec05c793d0_0%7C048d25c34cdf4cec05c793d0_1%7C048d25c34cdf4cec05c793d0_2%7C048d25c34cdf4cec05c793d0_3&from=BOI&lang=en&passengers=1&to=CDG&booking_token=F-91L7wK_LwCAhpTVgan0oIXpNal5yCcKwNRBvByiL5cCpbjQUsQKHM4ubrVcApewXGfAanCQ83LCtjTuikRKwf7mh6poQ5Sfb7W6PUXdveGPGNPZay1Yoh17E7PNYyBfgb3if6k4BJ2C6kRQfjLe-MG2ra4fXg01Paz8Wr1T0aCVqtgmv7AuqpOo9iJczpKcWZ9-gXxqAKLKPrfrNJsMeVvTTWQUBkT2Gl_8hrwx2-vGuiaZ6EtSa0O6zvaGttrESGLeHJOoFogxiAIhlWC1wk0I-zbnhZ1gtWgJuWUgJYodgjgzmkcLx-N9Qu1tPDY6tioPx14bhMew-DNLS4N2JyQX3z8lLAH-RSqbKoxEPySJoMapkfm8WfCmUGzNc1e5oOTqtsZCqgdU8ErFFl9ex-QK0M0ZNOoGayQnvGnl5t8pjRuL2jLdUILBnZNI8_XpOBCCvDMOKA6-4ZDwGOiDCaI50_5wwlyH7LxH4HksMPswWtA9cM5pntbImd2wyR7xXtvLNaEJPlmaFyb7n1A5k_3OUS7VEEQPv7NHRbsm5ccR-spqXz0ww9cZ3NBfjZVSr0TLO5x5q3Z49eQ7CAWHDeyGlKFcJJBfiDJhYNRiZG2xwD6qcZ5t8Q7spcfwiITx8Udy9eqRmpYdeKfw0wg9se2MLIOiavq2kOidbQXxulP7AkkSJEzvi4HcZ33nxgZC8OGRyhnbHO2C4gy0CE-6BB8UI4BLD-J_T2yA86PixMW8-gks3YugcOX2S6V_qqVRupo4iAYZlWdPV4WUFF-lqHvG5xogeR_48velxhbJ9JjFvWbULGm2051HI5exzCWaY7FHVP9IdWMKarZBDtu6qDfgh7qdN9hyvSVGdzvkg5M="
+            "url": "https://www.kiwi.com/deep?affilid=donwwrightcheap&currency=USD&flightsId=048d25c34cdf4ceca1e72e80_0%7C048d25c34cdf4ceca1e72e80_1%7C048d25c34cdf4ceca1e72e80_2%7C048d25c34cdf4ceca1e72e80_3&from=BOI&lang=en&passengers=1&to=CDG&booking_token=FN5cejQcSFb2Ca2MRrd_5a-gDQN84zfUZZApljq5imW86ad8obrplZtl55BoUI28nKG8KntKNX8O4cTcKq3MAoiY6k_6zHfMU07BovSC1_wTvgc2b7ZlIppgkbYJx5MVTY3vyHcMTYxCjb-vWzjAuLOeeJ0TgQFcrIgID1RfJQn8e0MwqD1htlmLB9S8IdgIv17Uqkg91QqTJw3UonTc6cQEhYasdTr-Igi68O_D2ZozyxqHczrsD0gl-ukBEpNPGWg-578op-9AGTSMZJ_YtEkorIfjEUQAYMxjMdsAOhVSi3rn7qTzuAYZf5L7APVxK-0h4YaBGAALyQofxefwH58SpYZcMXmGYSZsZuaLj2SCn-aFfV3-pSwy9Cb_WDBOh5B884aBM8Yjcqghz7neWtJrMqHXcQQdq7RUfi5cXEouSp0bw6Jt_pgqzAIh5Ce9lqY1GM0BOxZam-MC2392hHbzDtfjD3kZTTgO3U_36BcDMnE9Y2XUsnPG5UOPd9Uuzl8g4qp6dd69CPkIUPoyNqsrZUvnm_db7o0QCSzNC0CRGjhawdaN657UxjGuVOpo8uT4y9OGEUrksKEuC-IokMRJHXal0RlqqNMBdkRi7aj3zAC9Gzy5RGMal909BeXIqELWxe9r4MIKfVAuhzuo59cC7WEG-7x5VHS3_oTL1zC5EK5hcsWO4hfx6JRFk5prLu3ycU1SMzwPJ0tqAiYcEjkNkzj7Ig2B6ESpDL92TAg32C0Je5VvzPrv_ytq5JISd3gcRUzwzM0fOPCUqhNqTOIEFcWx2XGJCyoW7tbYCav-HGbKM5W30kwxSBEItQoLBGI0S6c4AyU4_XQue-rQeRV2h2A-VJ6rHjYuhlYCFMe-w4-FY_lnj16z5n_vRDOUK"
         },
         {
             "title": "Boise -> London",
@@ -77,12 +77,12 @@
             "cityFrom": "Boise",
             "cityTo": "London",
             "nightsInDest": 14,
-            "price": 739.0,
+            "price": 744.0,
             "toDestStops": 1,
             "toReturnStops": 1,
             "localDepartTime": "09/25/2023 07:00 AM",
             "localReturnHomeTime": "10/10/2023 09:15 PM",
-            "url": "https://www.kiwi.com/deep?affilid=donwwrightcheap&currency=USD&flightsId=048d243e4ca9000006342c70_0%7C243e22f54ca900004620f6c5_0%7C22f50f9c4cb800000ccb5a54_0%7C0f9c048d4cb800009b3e40d7_0&from=BOI&lang=en&passengers=1&to=LGW&booking_token=FljOUm0tbIrmJx7MmZFElM_np3AbslHWSURQ5fGsaVfT0cnPJvuXvdU2ZGaVvBmwH0CpIrvzURYRC0iax04Ucn9fdJ5z9ylIPu1TV3MIA07Y8IK3liQUXdJQe7Zoq1lh-dzIozmNJqnyEIJpqAwI2YTmMLxrtm6poeLZSfMPXusCjClwUNHObk37Be5ACcWMsDfZ5u6rNsiDK8xn1hwkCVv67CeL78XyfrsEP7xEJuGrfZ1b3uWFDH4PFQmFICIeNrayrAq1ndM6mlUbXn3_wCNID0-7X3mWtr6C0tGolEAXupqUhKtvC7PpF1MtwsZrofx4xqcl9CLQ71sWOeRxKPmFC2rHjMg-PUbXsalHIBXqcBxEWyy2XUaTojc9Y6yia_kwvLSmuPhMa8ZH1xa9iy8VPEDdxxTPJqcvFuqoUc2HCWjaKbXtwuSadUdmoI7frf-lkcIZGh5q8TXg3j9wteNc0Uom0QJfQJwupy3KDCKuUhtTkJiFHaCV7weGfhlVo_GuPhCCOnEiVCs0twUhm5juh_xXFqu7gfvzlkeSNKdhm26w3hwqCVn_rAqaUXgRgWMBZP2anwjhFXr2xJPuFLsHiT67UNhQn1Qn0Iv1PGlEZsowJu01nUcSNBmhlMevj117ijtUZRnxFymUJnJ55rPFkDlSaCDt42rFG97GL5KBtMtQIdstUcaED7ytobbUvCT2cEfm504CP8QlTvp4WUjyex92YhJ5J6ylXKVdG6KUVJeKc-IdlwiA5gjtARtJPFjHHhgHv4a4aDSP5r0zZCwf56iH_rtgjMiAEAfefjX_92nA1ba2HeteT5IFRqLOHaEFeeJfl4Hcf0UvjcX1YtPa0AdQWpQK6mEUFAtRJ4ZfiM2DuMfbb1G1WkcJmV_cy7NYf2HVVdfFLkZVQn4K_tSnvpB-P5Qe3GcSyaAR9xGuI0PrqT7DLbJZes5lWkirHS4YFCzeDM-pRScc5bBnXV9QcWQDo-eVU_nl1Uot2q2rHXdeIrOItT20pcUBrsMHDAzWRYHcY-tIgVkPsouJ3JLnWgVonLd0f7XG6g8AUJyxykgzEL5QXxCf8l25J7wnp"
+            "url": "https://www.kiwi.com/deep?affilid=donwwrightcheap&currency=USD&flightsId=048d243e4ca9000006342c70_0%7C243e22f54ca900004620f6c5_0%7C22f50f9c4cb800000ccb5a54_0%7C0f9c048d4cb800009b3e40d7_0&from=BOI&lang=en&passengers=1&to=LGW&booking_token=F5orgCCn0qLNJGjWpSFrcZOry54KvnMUPFHCcSdA3Yy63IFyc5m2_SONm2OuwYAP9bCjfHx9uwRk1tQ5Ly6g6hJJ13Se7AuF_-px5pbTT4HCJBUCN3XvSuRFfJJGXgD-rJl7_hXuANQqHeMjRQjrW5qhPPRwXLP4VfDt5a3RZIxTtAXQc_Fb1KDFmgIziKxjIGOxtqI9aMcMpD5-9h2Ft8M4uciQVZrk5AYevgmwNES_Tyof96j499qayq4P2-CjW68Xkt1UTcXf41cfG7WnJw3U9cGyHDHDpx6vW1MrZnuOArBFoEVER7c9j3vMkukSLuD6ZSUKLowkUsk_7uZKHUG2WnhLAC1tLSXReOesUIS4fvR1tTim7XUHL6xhN02eX34mBSOmc8edjtNlRDkLQFemXPXl3xD_wwYgMkNs1CMx8Ee3uwUAl0sBSSy-fOTRADi5j_DjkASuza-xMoQioQvA_QzGDMOFeRhrYtPtIcnJHxjZcpCOyb0Nd0x5pkfYDMxC3P3pUCdG5Nsk_Wk0tunzbJHHamhs79hivL_8VbH9TuAu_ODIE37yDKS71ny0UDwrEgEKMp6nnEGfb140kvskYHgsZwYrlH68oHf6cnTQ9gF-YAW5GySJtOcSGL9DIN4W5prAP-MFNYeCsFOTzr66NANaPXWcm2iFFHphtXDoVCr9Ka27lghoYnoWQWS1sHoGP3xHUC3EO_fc3-ZoFRw2yTI8BKA8xJ7RNsQletiyfN7zQlnZdlYwihw7Q90sUkfiwwU56R50NuMWlpWrSebntQNVkR36z_ZkORoaYLwaHs0UdHvGB6OkJDkRYnDRa5czLf_YDBJ7tL6XAFwMD8OC0CKW8ypaG6y4ZqW_okda_VqOdPrt9pEz-CP8-WScOhohlXx8uDjpFySAuHdkDjEbRKM82BKtFnXY1Wf4jaLM5ojKCpRkFo5cS9GHmDlEk-QJq9u-jDaMNXCD5ft0mezBG2v-vIHVXHFJntOn5kZ-oaeMd0TuY0mRGgvwacxTY5XssMqsVcGEkNHArZRB14peZvGjrj_y4ANbYzIvX-dPZ7isqsf4NSGRPI02DFEum"
         },
         {
             "title": "Boise -> New York",
@@ -90,13 +90,13 @@
             "flyTo": "EWR",
             "cityFrom": "Boise",
             "cityTo": "New York",
-            "nightsInDest": 6,
-            "price": 290.0,
+            "nightsInDest": 7,
+            "price": 291.0,
             "toDestStops": 1,
             "toReturnStops": 1,
             "localDepartTime": "07/03/2023 03:44 PM",
-            "localReturnHomeTime": "07/11/2023 02:54 PM",
-            "url": "https://www.kiwi.com/deep?affilid=donwwrightcheap&currency=USD&flightsId=048d24464c550000b16150ef_0%7C24461cdb4c550000c1b0c60f_0%7C1cdb24464c5c00002fe662d9_0%7C2446048d4c5d0000a48c6451_0&from=BOI&lang=en&passengers=1&to=EWR&booking_token=FKAdp1Ze1sHH-DA6hOHaqUt0dBTTZZ_GZ_FXonIcNKTlE332ZHORtgjEmTyzZ7XCLREmDOi41vaShkc2vu1_umt0Q2yrm-F8X9FOyMoB26skVnwafIUejMiyTlZLbapMxhB1LbXh0r1PPLo5pFgKrqmVPB0ezoJ-yjUAJx7Dcy8N2ey3LL2J3fdAdERi-fs-d9DAm_0bW-o1AOrmbg_gcnFXRE0nH7U5cuVkL4FPSfK6VkYf7fOSsykDEG7eA0RcO5SGjjIkIcaHFx71-Cso7QtgttKRQYlBPHHLQEHZCGnCsgd_Jvh5R-r0AG4CUYsKd5khLiy4sNRJP3gO-o3gy_NPrEtDXTOnC1qgLynuVSUtO4BxJYpO8nUztqrWO609evmnUneeyweh_HyGqPbTTuMr4xymSjAH0TqZMGwB2hqVMu86-FD2Frsj3GwgvesgnOtZcP466jRlHob5OwWv7d8sFn3uwySDbSIBP2sYGinboWWpuLNe3KKXE3pZdM_OOoo7vbCkK51qytn0XBrKHVqgAG27rYE8iO_LbOlKBi5QATMQUWivWZnBkWCD8bU30JamwqeV_sUy3Uo03KgVBRFjrdfrXpIxR8LDnnQ11qHzzfGuZH26e2nLYtVB2y2OZvrzx1iPfJPNqBXN-ayCait6snY2VCQsRcQnuE3rS0osQvQdM8ooEOxBc5U3NQWA6C1A7uP6NiPxy6zrt6iQaG4PW2J8ms0cm4j-fPXFESv36slRnf__xqI2npyYUZwA2d0fSuZ0CptYBK34RnzJ0-uvou6P0P9XpA8US-2PJsh5_qjmCbnTevbatSnNix9JXfEmV9Q8bYJ8tdrPxWdK86_mDk-Chrc649VaOi_bAoDUAq-HlRDRDjMdpK8Y4sDF4mwsj6MaGlULZ7KfOp3kmAemlhpVsgxjINJHUMW57WF4PWFvuTjxs88RwlfA6wv1LXCpEhjVOaaxYu_8qBnlvDQYlhaV77_H2P-IhLV7g7SRjYbR1UFdW2Ketn_aPB8GfoHpENiDdLIm7NYfm12wwzaprEvZFQ8lxgpAiPqRgZ9cnURY0t0sAzG5LAvNE07FM"
+            "localReturnHomeTime": "07/12/2023 02:54 PM",
+            "url": "https://www.kiwi.com/deep?affilid=donwwrightcheap&currency=USD&flightsId=048d24464c550000b16150ef_0%7C24461cdb4c550000c1b0c60f_0%7C1cdb24464c5d00000619d1f3_0%7C2446048d4c5e00007522e5ed_0&from=BOI&lang=en&passengers=1&to=EWR&booking_token=FSa99c3eCqSeV_6vRqiOB5PmvFmsmubZx7ruwDKgD75YqdIhoTo2htaGQnMZ-y7ZxPJpeTzqprdSVKG7VAafpcG3S2HfoamR-cIjja9td1rUJWawf6NobFnaO1AcMFjV5O758OQQkMKDCMXqc4NIT2nrM7mVa5vbVxCGcMve79jdRd_ayi3pD8x6rjAKuc_yI5cByMIM7GL2iIVXP0ASepJ3OTeDRtaPIRcUhc5eLtSHpImEnabIpWnYpOB9DH7-G2AGezkTtrijnlZjDSF28LDbGj9mLCCwIFpScl4wR5XpngIKyoy_UJuTsaRWrH9jnTqqx5nPRb9ofyqG1PzENtAY0azxirxux13DjVb3gwJY55RvdolSPnYIEPBqLJjNjvrMVVp2vhu0SwaFWGYiUcSs2R5UvUeouX-uA6C9oDmYGawR76aawvP55SKl-4XrVYFvak8WlrnbWdezQIitn4HCRTlQrsiK_mlYrDGtODYsfQWisuwoKteD9FxZW435Szl-TNR-Sa-9LXkLXmw4oIaesbXwYpMH6B8-kMDdkgPf6SbBQqrdaNzVVmme9NqC6HpoY1cBEbQcRojD5r6hosfAfHBQTwiSo6TBNnyIfQbc43PgkDY-yBRNNkwF1amDzf6d8pHEZXnP04NoEeeZCBVZtKYuVwhLEugDtXuZ5X5B63g6mijAX6OEfXbwEOkdFob8YgMbFIsJJNRvR3Pj-drhqe4da8kKRQhc7q8uC3mtBo-qgCNxLdTu30z1Yh-qMExxriRfXNkq-Fsw2LTnNBn2fXn7No4dhQ2--_7Rnza2UEXHH4SLil6L4EI3WY51RWb5DaSjWyAplAE8VTGKfm0JeEs4CgoS2w893MBXTcGF5hoqowkubXtelqMBT5ykSHWFYVjm2_Dx_G4m6YFQf4n7sMFrJ7uedolRLwoycRJ730ysa9NDTRLNa-HRLiws5LVDRnw_lCkP_fQFDZ7H51GgtpWDo5wBR_SZDvgWKAOI-81LUHo-9e1ezEk5q6hPNE3o8KzDBZIa8Cft-35pkiWGxpH2gUH0nU_f-0hKcaRE="
         },
         {
             "title": "Boise -> Madrid",
@@ -105,12 +105,12 @@
             "cityFrom": "Boise",
             "cityTo": "Madrid",
             "nightsInDest": 13,
-            "price": 960.0,
+            "price": 764.0,
             "toDestStops": 1,
             "toReturnStops": 1,
-            "localDepartTime": "10/07/2023 02:00 PM",
-            "localReturnHomeTime": "10/22/2023 12:45 PM",
-            "url": "https://www.kiwi.com/deep?affilid=donwwrightcheap&currency=USD&flightsId=048d0a224cb54cc32a1cbaff_0%7C048d0a224cb54cc32a1cbaff_1%7C048d0a224cb54cc32a1cbaff_2%7C048d0a224cb54cc32a1cbaff_3&from=BOI&lang=en&passengers=1&to=MAD&booking_token=F9SsocagLPIy-a1h78y6ge_Ol5lLN-OTCuj8QW6ynEH_bcLlYiamuer-L9V70KbAXhaIoN2grfSSt5-ge5I7BPxj_k7y5Au_sz0eB40eLtq0aZADbMD_W9leppKRRg7yan1qCclyADncPD7Q-3iyhlX_VDhbL3AuSnKfJOD2KphlmjTJ_b-yVFKiTaHnKjiuDcANNdRTOdnl1uxiKI_Lmeiy50HCzmVm01cC5n_DjXRBZMbmETqrpzlwasv3_mFn64J-US4nomeHzdrIFvONpifarvdKh6xdX8InxjLRhnAKHJ6RjjgoCNqfLlgf8fvo7F7YHWRBbLyWzekgoVs2SklUlP_afinelIhyvdj0AZytLzgcf8rGDnYrwSW5KvXmtgIUS1HErXS1O2uhVR-8W8FFkBQanRxXwdyDbvNE47Mi1JjCThJIbHxbkMU82r61KYdlrBaZ50jEONRNsgISpTmtD5auXd2gGyM7YAm3pHCKhGwlRYQaUMd6xOSiZ7Ob4QJVnWJr-WGNaL1uygFUnGkbssoQ_W8lNqCFF9E07TBMCQnplV0lymiOfZ8N9kHKPfs7t66w1-b7IUPj6pyKDEZcdvcW7Zi-LKwzuPFvaMMy80MqYoUK6bApUcQGkEkDQe1eRCYNjkgDFN4llChLHPY7iLBCZQZMc1xGETtC7pklQ8ux9FVtEzQpSO9KT1to0zJZh-C_jQZtE0nCpF0ba_Xm6B6Y1ZkMjx6K1l4hbF2liEv3mXvHdbZtjEfgbB_X1IJrMFFMrObN5z3AjB-jnJY5Gyhr7xXhFS9kusLQOibc="
+            "localDepartTime": "10/31/2023 01:55 PM",
+            "localReturnHomeTime": "11/16/2023 12:25 PM",
+            "url": "https://www.kiwi.com/deep?affilid=donwwrightcheap&currency=USD&flightsId=048d0a224ccd4cdcd53b2026_0%7C048d0a224ccd4cdcd53b2026_1%7C048d0a224ccd4cdcd53b2026_2%7C048d0a224ccd4cdcd53b2026_3&from=BOI&lang=en&passengers=1&to=MAD&booking_token=FR_v_Uifhdg7d6I10NrsE7Ufp_1-qpk3mqo0NHh5PPXBkTi1w2BLrZjnFjH5659lw5pcX3FWUkF1NH9VaTDW7HBdFvY6YPDIO9tuRycEVd7jTTTVXMaK1N5bJj1mwn2_oFDHjkBujWlhgPY9uUrcQirjQWQZHUCNWCEg1GC_nWSfuZC59mrq4KN5kHMmFIGeovYM7iX75t7FwGAfLd630GwKjYt_xc2852lSEk7vd07Y5vRzwz_GRIaDcjniJcG6O1CRzHnCqD3Z1TTqJQ2L0inOzP2OJqp7lOl_Ub99BB45u6hINLK4FYfkMBBpac4Pvjo2AJhb_Jvqbgn6id0zVNoJKdv1bsYv8Qom_2nGju4IOjCylIOHIYXGJGbfseQgy_hbTpHzVotCP8kOkBeoHzBcujuBH3ZnoZORJmTUycbnZ-XezH9RutworXDFkmeOR381SI_YMVWkwIPH25Hz5EHF23a-AvOmZL2mwb9gq2IRT6R6bowxNPIT1bgizPgURPuK7mmAW5i5mR35b3SU6p3phGIYq-PwlUt-mDzrf5w0tWUWRB9YOLfpcQ3kvLSMgMoI2C8Oy7WQLCAv-dFtQdfxsbKepURtZdVWqzTP6OYn3zB4Fx7EOA4tSispSWsEgxzz24MKiZNB0POSukF8ihMHPo0-o6Svys3k0TeXwkBSfgDt3SIBCevkjhvkEgHp20r-f2Fuh7pdrhONpYRfcQeSPV4a4sf0wausKMmt0Iaj6zYspAmRMO0U7xkfDOvphdnm1I0xD4R4rBhnei-5rjQrMFuu_v6553CtIF2f9rqM="
         },
         {
             "title": "Boise -> Boston",
@@ -118,13 +118,13 @@
             "flyTo": "BOS",
             "cityFrom": "Boise",
             "cityTo": "Boston",
-            "nightsInDest": 6,
+            "nightsInDest": 5,
             "price": 283.0,
             "toDestStops": 1,
             "toReturnStops": 1,
             "localDepartTime": "09/13/2023 03:50 PM",
-            "localReturnHomeTime": "09/20/2023 02:50 PM",
-            "url": "https://www.kiwi.com/deep?affilid=donwwrightcheap&currency=USD&flightsId=048d24464c9d0000b74cba80_0%7C244604884c9d0000c95f0a60_0%7C048824464ca40000cf3a152b_0%7C2446048d4ca400001f8d738b_0&from=BOI&lang=en&passengers=1&to=BOS&booking_token=FWzhlbEKDMkpjq3mKZ31jwI4SJEClNgHEj54jDEt7-5a2Y38aIJaoWs2OtGD7YdH31iedIsVVf6KPi3IWXQexls8FNGPmis9JraGEY4nyE-9UUgi3IJ6mOclm5yQw0fLwCGQVqKHaNz_oZqHpkLhAOhDaswUHelbnIJn6l6JmhwOHEnXvkBOt2d0pV6_xBHcbO6kYUEPJpzjMWm92g1mSrFJvQjq0wydC1r5IZNESRLu8kmYfU_07quvmCWMO7cZGxtkWKqnKkmHNIkxYHRGaFj43spcBDbtXGQmxYIZmLqbiR4Jku0zM1r3B7qM74fcXkZc7SaBuV-AseGdlEIVfUEXcjubUL8mtzIgJRgEpBDJ41dTWYBkH0YJk0o971WS-x_qhII03M7aAjLVZeeFuyFpTk3S6YOjbNlqTSl6ZRk_kbaXlFYRCo4GjFGBybg1odCuPFYcCs-p5xAsrl7t5wiYgGbgQ3weh1MGmahROTlXoOR9Ndc5En3vaK0Da5Ze7ztKxPgTAGV5d3S2yj8lZhpiFgTAWmIBhSsT51pM38OPI0t6KmLsNWJLyUA40pxyh3XkuTxgKcg-xpelDp1qPw92lrrMetRj8A3U9iAZZNF2Qr0G4rXb-VNh8oRWRmxXoqBkUPxBOHa25dilpyKWgaUn6wVDGmX4oW8lt42gXOtBw8CxEx6Q97wuVcaBNhiifmdR1il4potceAnYXKKsdo55o19yCWuGCEI9VUpy-kqFNSLL_WQIoLU5np099oP2IzaXJwkt4GuwC5g_1adOyXUZ58ZSBxWcfSw3CiroElO9jiBntrE_JarTlrCvmQWft8iTewJGgUJCLWgIZSAq6tKfikxwCqwQHD0jTulTku10gbPA7hIinqZzJALMfAu3gPVuc7DnJ5HiMVP1CSd48cRU4C8rjhimvDw4YXzTLc-aIh7FUv68ltuUSZm2l7OU23wFJ3L49N_rUIuE9SBbHCRVb89LrKwTyvg6unZCWx4kaup-_tLcsIt4hiIDkA5O8arUkiEJY4vgZD5okIidWNAuk5OZ5qfFjwnb6oxMDrXY="
+            "localReturnHomeTime": "09/19/2023 02:50 PM",
+            "url": "https://www.kiwi.com/deep?affilid=donwwrightcheap&currency=USD&flightsId=048d24464c9d0000b74cba80_0%7C244604884c9d0000c95f0a60_0%7C048824464ca300007ab14584_0%7C2446048d4ca30000aa062324_0&from=BOI&lang=en&passengers=1&to=BOS&booking_token=F64rl4zzbvany46KqlTo_OQtBWB_556XRF4fC0-aCkKOEWW57VyiZHvY6BqcFdj6AFrezASUS7qBsHxeAdcpxc7dPNUQG0d80qnv9INJ5ANMuwq4hprSz40J8cmP0hpsmGL8Aumf1dUqLaWUzeXcS937rO3nK9HMRW5W28W-a8cV-_D6AloRFTMSkfzxh0M1jct6hDhMmfnYm9BNgjlKfjdi6eVaGtvkLLwT2ceEWUrekqgO7J3UITPRx1CltMfs1-T4_kCngEvHy05eMA_cyPZPNfe3kYR0DzvLsE52B1SK1sjS3b9dFacF86Dnom0H9_uQCgmTorlZzZI406nzTVRmcGpELUQnmyU0qoMrj1qDcxKrKw3PifYbJQIGhxD5dXFXcyuYCDFUWp_mXCuUv2e6oyH7Pisha0EX2ruM7sNWBvgmMCP4sZQ5CCvoK9orrcN1_-7v_Gor2Al4TnbvObX3iPaC99y1MhUo7Ng0LNK-Vzc-LrlkCAJ3p5dDJ_8DTLMqpyt-XzeQnYlrap3SayYlSH7tMLVkB_Jyj2XMeIHZ2QiP1A83LBtzEusbK4KytSFaCGJOCVh8SFTNLjtMckHaY7Ctm_rcKHZfx4P8ts3LGfd_xO_XmER6IDx84M_-NVgeDLduXbclhpF75JMauhBFC8BN__p3jYzc_J5Z6MFkaexZF1S0Tdj0EBtXGxzuLvHlFih8Jr3PQrxJtIOzxIU8nhIhRL2pGj7Ck5eCpj408JIRPYCMTFL8wBrdxrI8qZ38sCsAEOuzNeY8wzJOLJgHeey8--wRb18dhWQza0ta_MoUEPP0VXhPfCjYhIw2jTeWcAdeRfiw_uyCQuYi9QDgmfNbvYNzIq5nrfDBEytDQx_GK_SLrtOJ3PtoomwFJTsK1u98M4hTjxDZEr4sgOeCwBva--HI8T-C56MrFWgwwnMzaXD37eyaKkh-vIEz7QqmVgPPz9dt45mCrTaT8-No4saTy6RIF25xp4hH_PVG18w9qGTU2dLnHixGq7vN4ZqyVB9kD1YT71aAFuHPcRw=="
         },
         {
             "title": "Boise -> Miami",
@@ -132,13 +132,13 @@
             "flyTo": "MIA",
             "cityFrom": "Boise",
             "cityTo": "Miami",
-            "nightsInDest": 8,
-            "price": 215.0,
+            "nightsInDest": 7,
+            "price": 234.0,
             "toDestStops": 1,
             "toReturnStops": 1,
-            "localDepartTime": "06/26/2023 03:44 PM",
-            "localReturnHomeTime": "07/05/2023 02:54 PM",
-            "url": "https://www.kiwi.com/deep?affilid=donwwrightcheap&currency=USD&flightsId=048d24464c4e000008b3dddb_0%7C24460f6b4c4f0000293ab35f_0%7C0f6b24464c5700000d672c46_0%7C2446048d4c570000bddb2331_0&from=BOI&lang=en&passengers=1&to=MIA&booking_token=FIVyqke6j7j4oDUBBq4hgojQUH7iPk1mvUjN9NhXi-4ugnGzyTtI7NPwGRJWgNovw11J8Ek-wzKqLDz60ol_o_L8oNwg-tPuFSjSPx726jaO524w7ufmvoncOIuH3SjbdmJkvOM0dowrlIvbkp19D--EX5x_IHcrnaVgbBuFSRaH-Bx1TSV4MZy1s03t7_fOx0F2Ra4j8x2mAyRbMNwfvSgqQ8X8gvtkWtO6dfglytHD6PrwVUGcNAjOvMVqRiARtOu0OSWboSgnGWxK4KJ8jbIwB2RIS5WM4037f4V3v7PA10D8IGJWbisNB8ZKAWE1Wzyvm3QuHkZG4bpLdYJk2rylr0KAivbz3Z3u8IKRxb0ORbG9w2wUgE-Es-2mwdsQC-DU4M0iRddwrnfgC3nTZeEwcAesfr3Iz1jmKhwm5BTpi31KDFerH-ePKGmasp9JaUxF8Cpn7ApP3J11eipf3-9N_XOyhHLHMf9hB63DHRSkZfRunCebgbMtZT2a-LV5k95jAY7d7L2wT42n7u87Bhc_zlNBepV9RPr-wcAcJxYpdiB2fh2_VRSCSjo6Je08CJK8ETR0A9m2UOmKnEwyYHxVOG23CP_h8w2AjE0b7jo39LpkQlNJF_nu1MDZhNxS_OD0GOFLEAPcinS9pY3H8zfB8ov2KhehGps0kyMw1zTxeMpM74rzmK4OqbkOkDfDRDFGguI6N36up7H4ChxYqdlEUJHh6V90HCJLX37A8Q870fkk-X01lvYfV3ef_4dWBUF9Lucct-GKxJL_RT6Yy_1QW797KH8IgPnuH9Lbz_9AH4q8YtJFZAfRi-jWwUfetAUNJY-NVhPNsfVW5AAFBOX9DgS3aYfVp4sXMCkQ_MsdopTGCGo2YDT_XY_yINqEn5a_ZbzLK9g2leWa8ToUBnulxplujyXkeT6yoDFZ-wkwX5CO0BAiT-9Y25RBhhYe7jIB63W7xufnhOO2CMKS_Ct225hiz_VLZcMrurytatpm_EcgDGqcXMOnmtdzAp1tGYUcovyCPWuvHvepljYADssHjfD-8EUqnPGtouhys2Fs="
+            "localDepartTime": "07/17/2023 03:38 PM",
+            "localReturnHomeTime": "07/25/2023 02:54 PM",
+            "url": "https://www.kiwi.com/deep?affilid=donwwrightcheap&currency=USD&flightsId=048d24464c6300007a8200d3_0%7C24460f6b4c640000ec21f9ce_0%7C0f6b24464c6b00004225d6dd_0%7C2446048d4c6b0000da492b07_0&from=BOI&lang=en&passengers=1&to=MIA&booking_token=FbVoueko58cG_LOjaMbSPrN3wRPnmdsnAlFqcQRpIEbS7ilU-g3j1jKmXyQXOkBQGCWq0TtdFg7ENYgju98KPZxJtjHd3bygKcLCXw8Wu7BDjo79EXQRrph6xj-IFIQ4gSNWrKRqT_yCJc7qTA9W0tleddEhr_det9uKdewgDhZAiY0v6fpDWzyaLSnHZhexYmPTbCjeoMa48fXVqVjMGm7-due58h3uvCzPV_o1U_fQIzdVoDus7ejLT-PJPP-C8DJdCugELpRS7_Mf2eRWlQPKHhJnjP3V1uYcrRNiZFItOWemVPN3W-xbAHvNiCQy4YpQ1l_IEiCYhazZ5HOssShCaiiMLcuBCM2Y7Lha2HjBWI9YUzd2L9eXbZJO6ujp1SeEtOMHE7-DdG18UsMClbkBOifRJ9lifdLpBZfR5HF6xdJ3dYppC17kafoE9Ag7PEWVUwPI4DBrV0fFamo55UQF17NIITbkOcpXRZf20G6XgBfOyD2hUd1I3bPx6H5Gt6trjlJ_WFwD1AYRqOenWYhtA5CjyoaYp6ACGLJUeItd8rXZ1W1ABbAYGgfPvLD14KXnmvk7A-7HpyceNOeR_Erop2E3fseaYjTKVQmK2kOGR6baZUDxHxKyVfno59qzk3SZGc8Mrx7wlW47zL6-0coHIEDvm97ajgW8dw4BiDyNtyhAu2DlQdzRZM23DGdDCqdGjzmKMvE6gCQJAeOuYr_7M_TeLTo_hq-L4bIDpjCm3nYY912YeTGnYa6AhOoZonRY_k23lrCKJYQbW_w8KTn9UNiB5ToSlE6vvyRUO8BPMTHrWijtOh8AeVIPWg5SrI8wcQ8Uan4mf6f7C_3PxGrS09KxCLnxbOb1pWZ6MHhP6K-x-FmhH05UX_Mw-N5lGUJxDJbI7582ZQMcm8wG1zjSgYOu2rGZk9mUtAYq9qGDh3oKJvydQXUh3x6z474wRv_OdcmmZcGkf2lgH94hahC4xI36uCd2R4XHZOf_qAnIfnQXuF9gZGiZWpiCUXsMNq6HCjG9t15exbR9BrQybU1m3J1MH3G5yP0N8OgJDkvCK0wcKeD6GsDIXj8rIhn42OvH5-WYKuVUWU3qf6NGhtlFXC4blxMR_6K4TLL_ui_o="
         },
         {
             "title": "Boise -> Frankfurt",
@@ -146,13 +146,13 @@
             "flyTo": "FRA",
             "cityFrom": "Boise",
             "cityTo": "Frankfurt",
-            "nightsInDest": 11,
-            "price": 943.0,
+            "nightsInDest": 14,
+            "price": 974.0,
             "toDestStops": 1,
             "toReturnStops": 1,
-            "localDepartTime": "11/02/2023 11:23 AM",
-            "localReturnHomeTime": "11/14/2023 08:31 PM",
-            "url": "https://www.kiwi.com/deep?affilid=donwwrightcheap&currency=USD&flightsId=048d17294ccf4cdb5a1dec7b_0%7C048d17294ccf4cdb5a1dec7b_1%7C048d17294ccf4cdb5a1dec7b_2%7C048d17294ccf4cdb5a1dec7b_3&from=BOI&lang=en&passengers=1&to=FRA&booking_token=FFe4TW2eUIISV0ogSRnsRLz3Zfin9RcNd3ZQIiD9k2oNyFFOIT6lFfPj2K3jpx6Na0uXWr-6JLe_CvBoZac7vgYw4xLRN03JbF_YQaAT0eUMjD_nsn0sml-Q2eVxOsysz7Mg7UWvPmnz5uT0RtzF7gmJTWkMK4pQKQBI0izGpGdCoh4uRTdCB4SuXRYyDujClGwxCS1wUBNwWs86KkfsL5tOfcG6HhMv5FF6BzXgzH8lfJ9uV6umVt_ankLFH_vd8wa266vGLt-6jftjHuEK_SuUFAis55fQ-CqmFWuhLkUPuenIo_rEPZMPGnve83zKkmapriDVwdp3dVVaNKEFGIYxnySNcP8VI5PKk_FswxfkR_qWfRRwY3sDKXatBufOnEDOoK9buDxT-6TCGyCmmkS4zE02TjdfelIpsNIpo7FEvFL6e21hW_0wZRkDRhfOtaYp6NNCpsthXN8-n7hM3aEgsuoPErmQdaht0Ybf0y-lX1ruIy5pFW6qaLsKtBXovFoQx7zwmWrNzlXqKBWexNuXvKuALQzy_WqU0ae3tPGRDth0FOYY3eDZpJs310cUdvhxn54z1DhD-ERzt8b4Lc7X6pyTgJh4qRDL68WBw6XpNjjsHghsAbi2lNy9B5LI7AoFFKVUmxe_3WEiWQG1xDvM50EPqORMeM_Du_U_5ZakEwhamXKkK0FMQyM-hRthdoMtY7hFsC8dPYXite1SFLyyyvVscjdwAVGMLqyHEqRVzQO1XxOn3vAv74atRXPSvx39eD8tDaX9kUiHjorGeKDyYdXQ8yjK2lRsGfOki7lh96SgEwIDZalhGAg416sGj1kii4tXCRz9_CIj1dy8Nr98bbzcTuENWhyGaF9Gt-TU="
+            "localDepartTime": "02/14/2024 08:40 AM",
+            "localReturnHomeTime": "02/29/2024 05:47 PM",
+            "url": "https://www.kiwi.com/deep?affilid=donwwrightcheap&currency=USD&flightsId=048d17294d374d46dc619ef3_0%7C048d17294d374d46dc619ef3_1%7C048d17294d374d46dc619ef3_2%7C048d17294d374d46dc619ef3_3&from=BOI&lang=en&passengers=1&to=FRA&booking_token=FSNVNzaQG8uZdBk0qIxLWv18b8l0DP5SOc--Xr__jLpXWJ1Z8mMol7P9Hj_dgxKRaNPYpH2MK-JdsRTV6TUOFuRRtOsb7Q6U8NGiCQxmORdGaQe_ZjfSNJ2RmR6b-QvilXvuFJbV2AeGiOdS_5ct3fMkWhos-NsVHzE1kzKfjyiIA_JxnMuMA9wxTGcqP11NK3qeAbTgNKd0BcLjL1IaV65x24tR0lIsodf7RH90vW2c1DvovX1DnDsb6YfDjyN1eVbAOWt3jjBqfcF7SsbGQm7JUD8Y72_NI3nElEINVlV0qQtEcbmTH_MIQtZnR4Ol1r73RAu9dWwd12IDo-E0OmYz8m17dAWGj6csZxobK8SsetQwbBk2x5M_7vyJpwdRM5oQbmUL1judyFS5MrXs8LvuKfWknS_skDRV9Ruv6jY5yb_E8e5wryeJDJuipNWCif-ltRK0crMNRxAG2QbOWTGptjPJPJDDhwtaXqIbrv5xE5vAvRyb4HCno4CqFLSS3zWslkIWQum--L5BO3rrvHEP_tNNAwWV5ghiFTBH4d-cfbhIdgb406XGF35_-I6PsWDL3XQMe_OT45EOKERpm2EtLsUyEbJ38Eqrsduk5fFYm9wLYGoA7Qd7rF1Oi_RGZ7yXa3ZRV0GzxtCRuPYAPs3U3i8dQMozt7fjMx8Zp-MKV5EZnMgj5YisLYOzdi7X_RSKuqm93LlOXFto5HnItw08d9R5IF2wspxe-DxCx-bVgglyWqgatv0x1vFZ46PUiq6c5WhRpEjFEiJADTtE60S_oJ0qyZLsZUzVTrssql3NdPOTXpQr8Iz3eDdtyjR3xXqZGvwvw8p3gW51LPWiy0w=="
         },
         {
             "title": "Boise -> New York",
@@ -160,13 +160,13 @@
             "flyTo": "JFK",
             "cityFrom": "Boise",
             "cityTo": "New York",
-            "nightsInDest": 6,
-            "price": 321.0,
+            "nightsInDest": 7,
+            "price": 329.0,
             "toDestStops": 1,
             "toReturnStops": 1,
-            "localDepartTime": "10/17/2023 07:15 PM",
+            "localDepartTime": "10/17/2023 02:48 PM",
             "localReturnHomeTime": "10/24/2023 02:44 PM",
-            "url": "https://www.kiwi.com/deep?affilid=donwwrightcheap&currency=USD&flightsId=048d20a14cbf000076a3f534_0%7C048d20a14cbf000076a3f534_1%7C20a1048d4cc600007f4dfa5e_0%7C20a1048d4cc600007f4dfa5e_1&from=BOI&lang=en&passengers=1&to=JFK&booking_token=F7W2K5fwLV2pZCPkrGfzNhcEGhfT3mdvNepl2sBE6pvsIIylUOOxj8F4A7j_yyJVwzxWSyy5EiQrSiqW7C0bjg5j819nyDUf6UTXQMpCvU8-7dA-uJYdy3jr4iECRa-t6fiIjv13GTbRX__sim87tFMrNw3RJ8BxgJ_UhE1mgd-DNgTwxVcBj1cJp5bP5XmyZPMWRbHZO4M3zv054lU7x47qC_hhpxiOj3S0CZOtj2W7E07cYcRtCYbQU37RJvvEusIKUxYakFZ7kHle85xyrGd1COxWnm0p3sTtOqirNBLXk48S4BNjyQjJckL8iAmOnJdW52sX_RfYQqNtHLEOEOyNRmogkIgNUtYUHFjGxF8ATSW4qH2bVTynhco62E8BU9ktNnlVb1klBY44Zb8aLGwIyaUbmXuQqXR69sOCSauvvBp3_ssaoeJY-ePhquSW-5lDeWQTsPPa6LfQxHfpkKthVSzPR-Ky52bGD0U2lDUCA3nfnJ4rPXJ3tmA8oS5iOmu44hlpW0-KPUyYDEecih_O-c6EDxqso1TH2QUoTfhznwEEaesmyUAhe3ocSCFWxxc0GJqXPA7V5Srs98j7-o-KzWB_-n64eGY63RZhbvMbUGRqvVrRmNCrLKNwXn47woTxOf5LGBKpIYiTN16unZidaxAuvQoPooZlGr0oqRuysezJc3UV10-jB3vD2LGYgMYnPEk33HrSmQYrQ5M5RWd1eKy3vUxah6kcFFH3t3pu1ufHzWXdSJGsgD7y5JhS_SKYV8265M-bGQsqL1qOnsjUSsVoHmbjTyBSOb_E625cB207mnG9hrG7olazj4LTkb4HjinSKtx4TNY3QqTy9ipkgAAQcLy3A5poednzbhBoW-ZEDX4Mr47M_vFLP74eVg7OcRXI7lGfSmRAcAuvWyQIAWccmFYV2CzAFx1XtEgnSgqPD6Pgo76SpUILfAO2saXx6T5FbtNoeYR5wuOe05w=="
+            "url": "https://www.kiwi.com/deep?affilid=donwwrightcheap&currency=USD&flightsId=048d20a14cbf000062513a2c_0%7C048d20a14cbf000062513a2c_1%7C20a1048d4cc600007f4dfa5e_0%7C20a1048d4cc600007f4dfa5e_1&from=BOI&lang=en&passengers=1&to=JFK&booking_token=FptvEfaGAExrsFgIV0t_JQXCqEH6GwJ9eA9-01Bgi1q8GaAd0WfPaL8a4nnqRxkpOBkHLtBFMgEphLt1hFeVGgP-A-cnpaiG5ebAAIY35qW5ZKUODGPVo0DszzhVVfwCT975i-D7nTmNAy6XhzPU6R-wUIGKT_vpGo1Yh_Fr58j_oU4N3iSS8I6NFk6cs2cRjVtzgA4aYerF26z2Wq569WbNYkHYk6A0Somgt2y1dn3VLkuian0P3G8J2k_5YwkuerH23RzGyPAUx9v9zRuAq91wkXYaMpkqFysELl8oAhudrnrGdleuyFeCtCZ8UerWWD3PX0XnP4Yp7WsxLHmc635tt0WE8KGVhksMM4cjbY_uxjNWPbmzyMZgoOZq711Oq4reuCUQ5J_iHotqHsKmywmigluq_MhdCAar4rrsisQa2wjGI_OUig3Kf72v2lWV-eSxaLUL_fGNZmo-e68sYi272-xy8ylR3KTzzo7KWEqejMHB3j_hEgCeYoJbkoWPeq6HHbJc-i_km6ycnmhvMBqOMbz-pKStIovG1AgD93hjmqIBGs3UlClEzlxEZEpRdqtqK6QFsgYGMhsNZw0p0w67Nqp__ajiDFj7cQpnDRa9q86L5iyF6KUe-X5-mWmGoT8ilRvXslan56FmRCHH_hY7mzQPbptfBPl6Lu81efRgUW_0u9yPyu-Va7dX0GJgBEkJH2F-wcNhojgvF6mcQYPmSIOe3Jb9-KDUvhwLoPkuSbWCY9-mMLRrqRRZbz8fr3tIY_BBs3iIUz1m0Ws9JNGcL5FCE1HdTaLFmGT3dmTLxcNNCgF_rbOZKnw9T_h-PoOErD8b5jqe1QnohnIuDWIMhjfnCY9_BDD2k5YamotLQ9jkKi4hyp0rtFUKFrUx6B2o0-nPYvd-kcyu6KBE1MfQ9msOvQQh_DSjIZDd_de8zdrjerNyKBgVGH8eulZA3BLLzvRRbSdJp300kNu4H3HCbeee6fv7S8yF206SJFOJBmxvWnUZPgUq4w9JZO971"
         },
         {
             "title": "Boise -> Seattle",
@@ -174,13 +174,13 @@
             "flyTo": "SEA",
             "cityFrom": "Boise",
             "cityTo": "Seattle",
-            "nightsInDest": 7,
+            "nightsInDest": 6,
             "price": 123.0,
             "toDestStops": 0,
             "toReturnStops": 0,
-            "localDepartTime": "10/24/2023 10:00 AM",
-            "localReturnHomeTime": "10/31/2023 09:01 PM",
-            "url": "https://www.kiwi.com/deep?affilid=donwwrightcheap&currency=USD&flightsId=048d20434cc600008cfb0251_0%7C2043048d4ccd0000e4059b3f_0&from=BOI&lang=en&passengers=1&to=SEA&booking_token=FOMutRJnkr9jVjhyY812rlPWQ0vnXVSiA1rOUMd-tSSye4VXXQo1ocr_2Vriot5QSyW4xZlW_4r2Eyc_BucU390-N-taRZxVAyTS4xP1AIqDHgMZGaN3PzPGIaBQG58jE0_HGXotC_IVrpJDmSfHYMU6FgoO8xhZCxhlg-H7x4Ec03AJBJPuDTrFH_i7RVS_PIwxnHa4kcYr4H-_mWAS_C_Bz0Sl35Up3KEFQR-JO1ZafWeFu1uyqxfYXksekUAH2YqIj28Hv8q7zyJfXDQci9zrisxA99lOddtjNSs4dS9VCEjwRXbQH1kfKynkjMvVsOlQ0511stFGpyb3kbPwrerDpzC2O4nAnqLkG92ABc7Gvkf7bXXZjfKIG8AdgLUURl_bOH0x2Y3m2g-gra17qI0jpvpbrTPJY1FC9iEhh1JU5rOoF5rO2hxgTW1e0YZ2re2A35FejHZ7PkJOVI-A4ELFyECttbUCo4ft4VdL3XiC9_upb4R-yt7akBNAKKksgJeuWzQ6RxTGIoFgPjQZghifedbQ4799wTLs2v6f_V4BENsdSMK_oThcFfZXDBSjTeMOs5NotP-1YljFvtFZooJ6Y3egLb5SaAtu5KFwyAeVow-dyJQmfhFV_ebl7b8GNVOBxPgj4gybScqv72dXLmgMp-ZfIbcEnlVJo6GFgHto9IWZjIvqB1dkW0-ZioAgp9uwii4MsPQOf5rcA_49XptDjyx8pGQqYuNY1ZJpCgOWRB5QuEthRgWkXnFKUOrOitqXpL-YwCNlRXPqyrt5dniZhoqherOUdy7Rhb05WuHq8jm85r-dgv0k8HNg9fqvQ_JIqjgN3e4QqsW0OTot3tUfAlqOvEzx1586JHdZgMCejFxJALQKyT5KUCMKb4Q9ocAHRNgC0JVoOdfydtj4YEaHCg3zrD3-SDGMR8m8GTns="
+            "localDepartTime": "10/25/2023 01:45 PM",
+            "localReturnHomeTime": "10/31/2023 11:52 PM",
+            "url": "https://www.kiwi.com/deep?affilid=donwwrightcheap&currency=USD&flightsId=048d20434cc70000d2a21143_0%7C2043048d4ccd00002388b646_0&from=BOI&lang=en&passengers=1&to=SEA&booking_token=FXlgrk692u6lVzLbzoz5w1tVXqhsNNQKCckyAeeznG7hdtEqyVycaQnGkzKnLeHpUmDyogx4V0rjXZdLvxbZKWey4Lloisxgiz6iF3mNce_Jlioif9eNtxqrDk1V7w0hxV37BPz_56W81mYPuexoDzXATww5CGnjH6fyxL2OHDEQ67l558NFgqegod-0HC5eFZI-3PmEWF5QxIObUan5EvsvSWhmu1QmIgCIZeDB-MivH_i9wHwxQWF2pBpt3fuRwgzNwi5fDJR0fg5NIfC-bPffRnofOLMzRThRKalFNDXLPhVaJ86Ad1vgQcDdacnSiRHieZjqKMGf01uJNAb_v6rtCzVi1BuoFQIdn0Zs2WhMEzWpFNheR-b3NBlEicPSQZ4mkgKOFzo7WcKUchw-kfDGoXVqZ6ue9jUSzSoqfy5-vs22o5g76tACNgIN_N7O_g7vWZ-7nzBZjcZ7OhP75GTUcg_u7WJujqyekymzEUxeC6ZBq8AbWqGJFCs-ZgXfdlijVJ_cDXqQjNAeFt-bjW69dZnNcnYsQmwbJBpLEjAOpychjq0m938lZpN6o0IQkFsMZOnLTP3LWCahKAuFxE5kDaXMXMD2jYvabYp2s_8acd1WiJAUL3nUsEL9d7604uRanz18kYB2-eg1JFDuK-jHue_FT_tZ7EXffE8UyatnYBX2_BAch76wYioG-jWkgJow7T75K0Gc6G0QemNhEXPYW2CK5FJ0Ke1n2aOOSsg-2pE564VbzAafFN4c71EG8sWnRVUEIR1HPKww5mkbkUb6tUQU8bzDKspmQwXrPQRJMaSq9U1_uGIkiLKnV-2HehpvRmqs0pBqbtl_9_lQoLRQCoRJYQwE464zLndWMf6EXN-Ktl5pVZ8hY5cBy7FMAawIHUlkVdFQ3Z_Dho-yvOQ=="
         },
         {
             "title": "Boise -> Dallas",
@@ -188,13 +188,13 @@
             "flyTo": "DFW",
             "cityFrom": "Boise",
             "cityTo": "Dallas",
-            "nightsInDest": 7,
-            "price": 302.0,
-            "toDestStops": 0,
-            "toReturnStops": 1,
-            "localDepartTime": "10/10/2023 02:00 PM",
-            "localReturnHomeTime": "10/17/2023 09:44 AM",
-            "url": "https://www.kiwi.com/deep?affilid=donwwrightcheap&currency=USD&flightsId=048d1b364cb80000b48ccc13_0%7C1b36048d4cbf000077e046c4_0%7C1b36048d4cbf000077e046c4_1&from=BOI&lang=en&passengers=1&to=DFW&booking_token=F0-aDEdH-H3bf3h5LRakc6XjKDI8NGAyJouQfLBRfzmv5LL-rYG_O9HHm7fo-0KmjkL-eCD4-q2bL-JSZdD5NheMbeyb9OY8Sj0VbNjyyj4AWyJpY65E8fWri49UVPhoLLsBMGJLvZDy8AGWG3yISh6gHqRuhP9WWl9x849jxQ6LtN695hcfkKNqwsacfGOI6ZVM4MbfRDMCy9wXMvT8Drlp1reazDJQATeyUlb0bJlUyVecRqgSCYa6GRJsbWq6mLBpqM7axFGpKvFA8ud5VHK0zJdxJSF5YByY5Oiqf0ejTdlguRZk9xYwQnwRDlU6Lj9qq8BzyVTTurG9_wsaDx8bULbA_2pDnnDgwA3_oFlKhZi-pfQ_P53Th11HJMTB8X9zs-TuLn4tzmxQUlIkGZODGy1NrNnq1__ghQPF84o7wJItqJ73KHzuoA4Dnvk6Ms3Ve6b6ncEm8jkoa_n1X_26TtZdYSM26CrSbM6bYu_wsK60Aw57WbXEKu_aFCZq1fbNBwVwPiHzal63p7KRjz1dv_buBtDhTylsu74oeS2xsb0uxe8s867Osovd3GeQ4h1Yom7L0xCdm4oA3M0YFRwoYW1D3F-CL7cXOsQ-VXybYNHvlwuPokAPtrrQ_bGPdgAlh_lbGeYjAQKoN1DW53NWJ_DbRb3HdYfbNOe9mHwA6wg4GdeS-xLEGfQ9hVsL6e7CBJqHUo-waHAGHFylwDDHusoyFq5ZVvhBZNh3qFjb6SsdFohNnS2g0J5KWO9G1OsE2LHcU3Jg9jC4DpXA6hG561lHRrMaTaMmop3KwQ5kOKfrJ0myte69gEzMtgqM8fBCvezvxTnQJKMwUSB4rWFD7DCdhQYEni_Q_bLVhdx7xfm6ZIjZOhgKnU-a7InyCCZkRufmJ_X8EsUzHdmnZfYTkkOUL3zvKhZWeHzuZnOJi1bh1YuCv5xCBydcvGT9G"
+            "nightsInDest": 5,
+            "price": 359.0,
+            "toDestStops": 1,
+            "toReturnStops": 0,
+            "localDepartTime": "07/10/2023 03:38 PM",
+            "localReturnHomeTime": "07/16/2023 10:10 PM",
+            "url": "https://www.kiwi.com/deep?affilid=donwwrightcheap&currency=USD&flightsId=048d24464c5c0000a02e16cb_0%7C24461b364c5d00001ef6aef7_0%7C1b36048d4c620000d3f3c085_0&from=BOI&lang=en&passengers=1&to=DFW&booking_token=FtSbqXsMtjOgghr33j1k8hqsS-9957mywaCmi0ggWNIlHpv9zAbSJl-SJl50Tx7nzZcI8UyPKVOxq2HeYCc6L0d3FyIKRRtJtwn9bDEiXTAquyM5-caxNO3Jis15IapVMtSyTSTosak9JVa5Xo0-e2i4yYlwJIz1sc4RjQpYAwglJ29VBoe414V7R79nmRiEN2xhKyBQsYkCGT1_FDO9X6W-BSXU-dlU_lNYXQWVLRjGuV8GwTt2AInyqO7_gIsSp60-rvcF6QFjuxn284iQXS3ynezFScUbt7BJoY5ZMZfxFDjNSuXPjWNSlqoU0bt351_KyExHMBD2gUwInsgrdzSEhU_1bumxlqnAMAYc2yZ9FrOmniNcQmO2geJVpdfecZ68lq8Ohq5AWEo05vMrSMy-pPvCFOOo6MBGnBgJzcGXJXLDm-mrnbq3y8l4lBPIuVAx_kqpEv3rLXmzv1sXdldY1koJAAaJNGVvkqMzDSOCQ-AaA7nBKfctsO62poIFpW1bo-h9yXqcZbZ4MLfzc8rdVXE14MIeY6PnIbwjvD97R-VJBulPHue-Ule5LOJq7Jl1hOJU9RmTtQm92VNh2rpvQF8rznAoxyFE6XjGuF0QnwbpaPGUvFgg-OwW4jthKoP_BMi6xkI7bhnTcdvHT4BqFvtP0Rf4pn8D3qta-vSID0j_lLb_pePBA7U0BHiSqkGFstYXz9rj1aSFmcwcXqn0onsnREYhBiJWKFUzUDWvtRyD-o1NysIbFlCh9jwUGNkqn0iXwlJslcQh5BzpGR9XA3t84FJmHOR50uoiwMlUvj1Ru7E5jYHDtrrV6yUdDzgIlG9p0kcIXOkRjncMqv14kH9CIFtQ3TkeTK6q5GaBeYlZcFbkHKGH95cGRxAdQIcercnORv-6z2s1U6k7ThfyD0jJbgx0vPPMpbIf6wMU6EXpQWu4qiOu2bz3s0y0zMJtHm-Wyni8VFb8bJUuqERR8bWvBOvwvIs1B8pNmzotpmJoUS23Bh5KCM-3LQDS0Sm0SqHsIlh3qScgJlg2W4w=="
         },
         {
             "title": "Boise -> Munich",
@@ -202,13 +202,13 @@
             "flyTo": "MUC",
             "cityFrom": "Boise",
             "cityTo": "Munich",
-            "nightsInDest": 13,
-            "price": 910.0,
+            "nightsInDest": 14,
+            "price": 946.0,
             "toDestStops": 1,
             "toReturnStops": 1,
-            "localDepartTime": "02/01/2024 05:10 PM",
-            "localReturnHomeTime": "02/15/2024 07:41 PM",
-            "url": "https://www.kiwi.com/deep?affilid=donwwrightcheap&currency=USD&flightsId=048d1dde4d2a4d380295b79d_0%7C048d1dde4d2a4d380295b79d_1%7C048d1dde4d2a4d380295b79d_2%7C048d1dde4d2a4d380295b79d_3&from=BOI&lang=en&passengers=1&to=MUC&booking_token=FAXzSX2lUKWFp4v8oe2JoPE6GA2yan7K1TTQ8_1uKzgI_67JPpO2vfIcDqCX2I3cOftcs7lztDK6vCURUI5fFKixihTTt7NQo58khKZgBN4OLhcUNxANdjuE6n8KcKcMOCQICVmKBaFSjk7z3Tp87VIMSPJ8CtaOU2C64_nYdcde5-MWoFxmyQr60K94h4UqLHti6vUrM313aGkalSgyAoxt6tOpmoLmzj2kt8Iu3A4j5Z7uZGpqEjqdRmP-Ypmnj4OHUMB64Hfl0upWQi135VxOx8OoWsf4vfVubCJ052L-skCeJnB75ssgw3ez0LKjQ5-iYqChwWwhcONMNC1AxF8GGFnJjDu3C2iaxb2Yd-tsqiYhaRs7jygvBEIYrFP-J42fPOYUZuamIcKyLxM8fWUucumPz7Z0czX51PiHRrJyv4L2z6YN0C7GKcYkWWVI-hPhKzr-e7p8-xcsPmC-uaH3bw_5KFHih6CC37VW3d9zJz2RXl3KVfVM16MCs8mY51UpK-kMZzDopI3VRcjWlS7INxlWtDCzpNzzEYRQ4UqBX01Uv-Za83G4zBA0lgk04BenpS9N8FOkK6-k2ncRZCiE8Ss-0n8L7P7CoQjAKRfqn4XWHLdikHPt9yZBbkKAuH_JmxD4x8CtbAYb7w1KiVJcWNDsx1AHta9FLXh-XkBOZTai-vk_E2I0R5Ox6nAPAla40iRFMFG0vKOOKwbZUB5QI8Dz-aXwcgEmMMJ01m4iJtUBPRKgicHV87xZdMTL6HMNzocBI03vmfg1sG68O4FSYUZT1OGcvrgdhjRGu0Zzvo9GHEc261BkHJ_kQnXgycLOiY5et6c5B4HTJPWEPHg=="
+            "localDepartTime": "10/25/2023 05:33 PM",
+            "localReturnHomeTime": "11/09/2023 08:31 PM",
+            "url": "https://www.kiwi.com/deep?affilid=donwwrightcheap&currency=USD&flightsId=048d1dde4cc74cd60198e907_0%7C048d1dde4cc74cd60198e907_1%7C048d1dde4cc74cd60198e907_2%7C048d1dde4cc74cd60198e907_3&from=BOI&lang=en&passengers=1&to=MUC&booking_token=F7600i0cCf9hluwjgWjHFQiZtNPiPNO3Gcmj7QfMnh2kuiQf8N2YU4ZtpyvJ2oP6Y05YaWGX-XPFBJQ_TWoMErZZ9iJeFnai27rc9RXrShtRxsXRqFy_cB1gAAffsqJOQJV6x22nOz4ZZthTohHKNMPb0dSzLd-zvLyuOHB_epbSoWxwhGolZ6JjMFnPQe0WW-9Ibe_RlB07DVSblKybOn__Xim7tfPnx-zXE8VqtnIQ4Z86_-D3J7v31q8QhmZ4sgD4NuA8wzgnevxPjALY40ncIPuPzzleCu92DliPj-aJ8rVdaHIKEFb8hwBHtx3osT9D1DhE-hffyhi1a0xxtEESLc_fmyP5gvkrGf7qr0IbE2bmW8fDMoYRCaENGtpFovmBXXeywtuDBEk5s3mK9Wpw2n8Dbm_kB4bHgC-TMH6sxCUXxM94Y5bt0w9lr4QszKuqbPW-RQqMceO4ADxReP6-WoyoA_eoeVd6OZOnj0hbgUFklL9qzHDtTflZ7thBmCi1au4kpolHFTOdTL2SV_xzK3hUaTqch4udYAWIPCzLLjkhZT93SSWclFBjBdTyDD2w3e3Xs_FtevzE9SS-9z7hgauk_Zr0PYhghPL9T9UKfhvb0zfwVCbF9Mijv9kO5nDlxf21JfJ7GZlkCVIshB0NkvVNAuCXIMlWakzf8Gr3A2v453VJtzLYcmUfWus9LF_qOXV8jeP47WDIBIe76zFm6cLMOoK9gM_B3O3WqLC8M3dj_SbGpjlMk2Lc9Hq8DIXopNxOZfR5FUY82AnrX-SmHCJRrQ7z1w2BpCCoueQLFNEZYS5vJm2dD80jC1xt-2wzVHiQo8kJgkiNahk2G5hM6K9y07KcoPQN2ew07ehSjonuu5xKevqDxCUstGNfl"
         },
         {
             "title": "Boise -> Z\u00fcrich",
@@ -222,7 +222,7 @@
             "toReturnStops": 1,
             "localDepartTime": "09/30/2023 07:08 PM",
             "localReturnHomeTime": "10/14/2023 04:26 PM",
-            "url": "https://www.kiwi.com/deep?affilid=donwwrightcheap&currency=USD&flightsId=048d057b4cae4cbb625d2b9e_0%7C048d057b4cae4cbb625d2b9e_1%7C048d057b4cae4cbb625d2b9e_2%7C048d057b4cae4cbb625d2b9e_3&from=BOI&lang=en&passengers=1&to=ZRH&booking_token=F3hQWuaP1KAbfoMK7_Dmf0WaM6yp6aQFlDxT117LdefABQDjQ4gOU6TFzrRmPg53wBsq1AO1iJKy5GW2_RFvXJe9VzIeQTQLaLra-y1mfaT-zhLCSwUk5vEGDOUpa7uBic4_qiRWoBmxRgokcnnzlGnHJlyr6PfS3oTvINzwHnpLPaR37yWQJa34xn2IaG4euHhxxXO5gSTMwEc_w8VXdOuFM3DrvoMpR6_e-DP0Fnm8DKQ7V4zkw9MaWp4IHalWgjiVSZuvQ8P72GXfJ6_8R6eik6nC24ZsB4GSasE11Rxow7FVS_4lZIXW-eE3FkORalom3MZ1GaXj31e81qG-0_iT6H9gSV0C7erdApZNTIAECqK06D71ac5yusz0cuwxaYn9zeoPNYZYucNA_UXIZZb18eC-X1YmsrnYRI-aCuuOjAVdMx1kdjY3QUhsZHXSfCl5Baf_Yv87XmEkhRfM8k-M9f6gNgrGcmCvRQK2RtBA0_I20ZE7WK6l7PXGc4euRxkFR6kWjRO72l3U7oYRduByjmT8Tn0iMu7tUKeTBJn99bXBaufK7uyZxUAnHfVUCZ58wtKlXVr12DKQi2DDNs1ZzQ3lZUmrr987FX6LqnPiBf2-pwanLjqjm8BbQoZxzt44pf9Pj8yEJCVsH3Qmy6Z2Y1NbxbwDI0iAkgJV-dVaWfxI-CV1b_oKFrgyTNa0eNzQ1dIPJBqSeFONovFTs0BKikLfzM9jmOc0jG_jzkowyNXOwFoXS2f1zdKhtWeT1AZ_dBSzgD7L9IoJPIsrLW85t12irZPBiyRT60GHmrVXUytzk4vSPOCmcQ8wMaljz"
+            "url": "https://www.kiwi.com/deep?affilid=donwwrightcheap&currency=USD&flightsId=048d057b4cae4cbb625d2b9e_0%7C048d057b4cae4cbb625d2b9e_1%7C048d057b4cae4cbb625d2b9e_2%7C048d057b4cae4cbb625d2b9e_3&from=BOI&lang=en&passengers=1&to=ZRH&booking_token=FSYfwy6eaRfsY0ADHo4o4q_4j91CQZORRqJumly0Zk8_UwwLqm7X_zQEPnmaiAChCgQS-fxXPeH8af83miuEiSnCewp7IZRZ9z5aDALViU7-VVz3MzUvSg1XqWnrcY_XhmbsfMFv7f8d4leEoT3OSQJ1_1W0jZGHHmLrJY28SWZxFC4LYvNtW1jzun6LHRFX-ouyvbOCXnjJJNVmlvhnNmoVM-2MTXlk6dc416m4uHnIJtWL5WDB22YbXVwe6H_IgW40QPwkNG30T2M7XN2xAt6lG2cFODKfkUk0r_BActyFlE1IIfAnJpQoPYozAFdhLAP_dulB-Oer_oL076McabwhRBMwctliikukiw2Px1yhyATqT8P_QC1tH9hXwmG_SbBpMiJ2YQfgwrVYOexRRbtqZEV40exbLjC6l99JPisaQkGnlo6tZQcCQI09s7Z1hWhMVFqxF1rIdpZc59xUDPdICvXSx6Gp5_aA5w-ArMk4Z7YAWzsU867Pqu2AtvLAmBKmtohDd3v2TkArHTKbVJs4ocUKNcxbQADu0AoLaQS4TS8SMsh80EC6rebRrNhibmwZm0HYp99c6D68cP-b0Dgzf0pBMl_MCZqIU1vDFL7wuV1K0fY2yfv_TxEd7jCT4Hh8Kdme6yirAqIekIkvn-sZMdYh197PgQ1cEg5V5jPndPOLsF8RnY9PShSKcfqb1iUJw8P5VCcM9gyVI1BPynOKwaXK4X74e7BVwDDG220ujODo8FnsznmUXqLc5sQyNkDx7OSniVLaFzNiT3iYlPYNV8jedye_lGZkHuJk1NDrUT5UFO_n-mcaTnRzE5WUE"
         },
         {
             "title": "Boise -> Sydney",
@@ -230,13 +230,13 @@
             "flyTo": "SYD",
             "cityFrom": "Boise",
             "cityTo": "Sydney",
-            "nightsInDest": 13,
-            "price": 1634.0,
+            "nightsInDest": 12,
+            "price": 1356.0,
             "toDestStops": 1,
             "toReturnStops": 1,
-            "localDepartTime": "09/11/2023 07:21 PM",
-            "localReturnHomeTime": "09/26/2023 04:36 PM",
-            "url": "https://www.kiwi.com/deep?affilid=donwwrightcheap&currency=USD&flightsId=048d0f9c4c9b0000d4811097_0%7C0f9c03724c9b4caafbd9d32e_0%7C0f9c03724c9b4caafbd9d32e_1%7C0f9c048d4caa00001eb72f1f_0&from=BOI&lang=en&passengers=1&to=SYD&booking_token=F8R1E4NHswlQdnJHPBnCjOyYM9yy4FsDG10vsn92nS1GsjIIVAn3wLkcugoSLfGvawfSGdtTwEys47v_amd9eBREYOlYFsWsuUWglY-AoGsyn95RdK3HvhTIpVOASJyTJY1YFgIM8qADpoK8-HqqUWtvJEJfADUk2IU-FiYhbOg6tJgp1O_ZGMlAKFpD7HkjPqvN1FSjFLqQtnq6DZveDQl_6h-8CKfzINKKwVl5BzGmZdfe0y6o6US3_hm_9v8egTE5uU0Uv2iBpcXxkTTo9hE-Nw_l7ssi9PrryHDC_wlmj9Xu593nefZWSjj1OX6u5fcJktj18s7iJGlbAIT31SfWzTjCbWhPamdv1ke43h6ITzRdVaDVGqokpvsAIwZ1_0DwOp4wm-Aa83cxTAqgeuTwta-jPImXkFmHRe2c3y1wMpaI2Ln-rN_SX5gle7xhO6_77aIhwqNzkAQhM_LOZht6JrnaZqa5aEcfM5M-8xAeE_1it9WZ_9B28xGcxrGAz215zx3AmChOYz7YTA6tk1szHVrNt9a1BSh-fqZ_dGVLUd_nNanCOF2CIl4uoQ9R5_TroH0_46r-riLOtzuM98VDj--vDe0dVPIK2DFeuEMeekPmf9nxlgfluD-yrQYORDNCT3AN__6OrKM5iw9CJvsOmvObN_Hv1mSxdsd4dptieoMNfCkpsSTCMAyiNuGn5BHVAbQyvaOlQwMqn9QuihFTS5EoIedtgN5JX4zn77CyoReqLHLmlOP3OgnPzVQmUEvMLsHbo8I-Tl7MK1tDU9RNSV1fzvAioh-k32uU5jMtZD4fXzH5WunnKY1kZ8Ip3ZDTwwUwG90ckXU6EcDxAji0zNagf-wCT_SnwYal2vVTnPPg6cDy7o6uEQ0tFQH_oDM2lO5PhN3azfWytAhMhVSRMPxsoR7dIbFWxQdkzQ5DA5r7KheuyuGkzIU0BnmNk"
+            "localDepartTime": "09/19/2023 01:00 PM",
+            "localReturnHomeTime": "10/03/2023 12:15 PM",
+            "url": "https://www.kiwi.com/deep?affilid=donwwrightcheap&currency=USD&flightsId=048d243e4ca300004087d057_0%7C243e03724ca34cb1e634c402_0%7C243e03724ca34cb1e634c402_1%7C243e048d4cb1000083ce3566_0&from=BOI&lang=en&passengers=1&to=SYD&booking_token=FRFXKIfdacIP8-k5fQ6zA3JX8wlNaP3FZK7NErsk8Kh2rSgPHj-NLEKgX0MOLkJ20AawpxnvRF7xNt5qa3oE8tlBacMy7j8AeoxsP-KwmMj5vSNaaUrY_GmPjoJBmLg9N0W8gUk-nwi4_BImHkB8kkjPgseYu0UeZzIScbFk3vXpFlP7BZMegjOnoFYuvK6vGzXaEV_AjJ-GBRTfXJALU3yI12qpnIu1leZtnSIQ0lFE45A_e3i8A5_SxOhhu3ZRukmh_BaFVNOtnKcqEucJJ5wlAZBG4XnLrxF4_FPIyTD3yhkAsjGJ1QRC1SBiSAPao8l_zRMSJNdrZQ7TqH6wynW5PUhbg1owUwTwA3Ou93y_f1yTD5EwaS2wwuGCP4AxMiK83-gfY30YZOTpzRsfZ1v9Ib4bTS0bmE_E7kefUYGqsx_Z7huwa8q5KqPR6y0F_IlcubLdwoPn3IjG_R2NNlQZIbDQ_SjNam7MheKSrZXS6gZNv7v-yQSGln_PTSrCJwAclXk61gG6j4i_HnbKSAxfDeYKF2ZgWWT7p-U8Z7f3cyvge38mSI83NPqdo3g82P5Bd4hb0HPHofpxEG8p6GTwP7GAfC2R9I-nIz6m2h-rHU5Q7JAPVzaZ0GjMxDasc_5xrA114FthjHYPscqFJkjdhCxaM3_lOU8hne9Vu8dNiainay410RGbJ_hJbeZbZWjkahGhFRhS5ElM-XZioXiDacFj0OnztsOfC8ktMk6C19-0zSCtqdMiCQdZ86de8zB2qS4UCLRXkvVeAHfRhaRhWLYR0mwitjK-y_5EOYRpLc4cqHPcD5jErJknTgXFZ_Z-6AN3NQNpyO-Dm1HYsLwPcuvykYIzHLmC64C1m1fIkqBmlsN9xXR3jr9-k2RexIjOuJI-jMHz1Xl9gHNX3A1N4IKGflRdQe1Q4LRzO0aL3JHRRd7PZUwbPZe7Hj0EVW3gJLtnt39I9MJ3a9MKEB-puFtorSnq86LG6YJbN0S-kkO39q9OmOhhwBS6fqx7z"
         },
         {
             "title": "Boise -> Brussels",
@@ -244,13 +244,13 @@
             "flyTo": "BRU",
             "cityFrom": "Boise",
             "cityTo": "Brussels",
-            "nightsInDest": 15,
-            "price": 1742.0,
+            "nightsInDest": 13,
+            "price": 1177.0,
             "toDestStops": 1,
             "toReturnStops": 1,
-            "localDepartTime": "09/12/2023 10:55 AM",
-            "localReturnHomeTime": "09/28/2023 07:03 PM",
-            "url": "https://www.kiwi.com/deep?affilid=donwwrightcheap&currency=USD&flightsId=048d0a894c9c0000cd1e0ce7_0%7C0a891f2b4c9c4cacdc1f22a4_0%7C0a891f2b4c9c4cacdc1f22a4_1%7C0a89048d4cac0000a4c8ba8c_0&from=BOI&lang=en&passengers=1&to=BRU&booking_token=Fkv9PBf1wFscUL4gVuxkDcPdeMuOgKujYMd_-q_60o9KRyoUNlBH57qUwqWPNuDOqjp6M_DzcV6EFJ2Nd66MK8FDD0u38kXYlYtmHovLYucdqAh4JmwMFqi9iB4nlwCy5vunF91sprNjVBGYz6n5BU7eBUmtSk8ePJ6jme-FOUTNlV0cuF8xEsovet-Yh15V_ptOMWrJmzolMVGpcz4u1ukS4buzrisOd8tKYP5EmAk94zSKY4lSCUiXSvKpCqsUwvXwcgjhsLtHDFepOjzRXVrj8Ndl0DY6aASzCzAs-hrn4p31W3S18FaAjTd2e314h9LvuQRFwbswkBP6YjHK4DLLhfPI_0xRI-f9r3oLDgTELB5tb8sulhJnX36a-N0MWgUDPUbq2Ux2HZExD--s31FDu4Xmja4uyCcIeh_L5JDwtW6J44NAgcdG_1kjm0b1bPAxv8WiEn5vhbeatr3GTe3lri8fQg9fjnd8H07_PV5__KrYok6_OId4EV6dnFuXhk1ZrZ-ti182NDgMVm0XxHfqvq3Cf8BtSbKqOQVceU_t1Nqezlq3udi9xrJmXfMVxqtFxREpu5vIIb1TsZ6OyyplwAehVTawAVhYAHxDt4ZlzfK_JSGGkBGTcE20lH3R1zqzmgZS2JzFfukVR2VgRQLEgST7TLevzb1C0Hip0dp05IqS3ev6eeowSa1mI12hBHiQQjTIG2TTYLCwwmJryt_th3ACRAZN-9eEGJLlWxO-Guko-hZ8XidDa0-VnRSZ7etVqiY7l8FhQkFJR7bSRbztUxR-kGHya1ByxAeoU2Zk7XKg8KHaNHgp6JFTLhy_8cft_q1VSBxq2heD0_Pvtos1f04kSoEWG7oBlc5QnXwire8BH5sb7dM-AKtddk-8rdUPORw3M3vVFNUaNb2vs3XSVzK3uAPURaqHTwcs6lU6diKWI1DuBiSJgCcearMhHYHw5bB868u38eCH5EDDKlexLX0A0i4EBYPvgXDCuN7t0EVwrGCaPo4P1ZxGzju4F"
+            "localDepartTime": "10/24/2023 11:00 AM",
+            "localReturnHomeTime": "11/07/2023 07:05 PM",
+            "url": "https://www.kiwi.com/deep?affilid=donwwrightcheap&currency=USD&flightsId=048d0a894cc600007798d8aa_0%7C0a891f2b4cc64cd4d4d16a25_0%7C0a891f2b4cc64cd4d4d16a25_1%7C0a89048d4cd400006d3c2327_0&from=BOI&lang=en&passengers=1&to=BRU&booking_token=FdPuVMP91OxruLV3DSzkLoDOGF2gyAamaD7wzYTvkDnZrUn1RvPXJN5utstXw6Dwk5VpGv-KeUNkn_jBvYjdjYlo0QZiDcYQ4sz17DFndlSpB_WwT-Gq8CrzMxHqF1PmM3CETGqaVv-IOk0ky3Jsw7r0uHnzYvuTcKZRCAJuRSNKY0Gun4cOiRVo71m3iuvfZL0OqgheWyrgqi8gax3MMwUA4IQ8BbNb0N7WkxZ6l8kG6ZuSiyV7eoF6vsc1Cv0WJfPf8lA7O9jKcrGDJXyI3OanTamN2ESfqVikFPrmZE5PgOoNhl0ynsjIl2FCq8e7lIBVD4k6UgM1bsqeNZvwXeiqECmFRenssIebTNziUcTJCFE-TpTXaF-eqQxihIaMj-x64EVYZnn5wuy7Qe4YIhZkilIIfhd5AcA1OgAB2_oHkJtqxUBNV54If2j8GxEIwgWlG9YgVhQxlb1in2XyyF7P223Ff1USKI8z-UaBUD5v9BdaCl672aKyoFIo9rxCd_awqYXMGn0-HNB72Pmpj6Vw1v57nFaDscG-iwTCkbBs8CTYxNOYOBH0V6fcIKDzjK4gnhIf-DpgdJJvUKnkAPBCLrM-HUQtPhJ5qSao7fZy-LwedE3z-d3UiX0tgj-XD_1h0Bdt7C2DPfrZTNn7FMZoHWQqQien4VRnmO67QoBvgpu41zHsonSOnYvD8AkYGRLbviWUYUjklk-g4aey4U36fUnNxLVoxTzgGg9WU0dQSBY9Rm43Yu2jB-m6JPFxYZu58g9znWd1LJuCt9OWyhjto6hgxnT0WGY1z3nmjlRaTfjlVLBKM_y9JH8wyQN78bdzDbnKk_BNO6EJbODLw95GtTnotcizHB2Cb8E0jv1ZVsqRFtahnw1TrvNy2sk8L4d4bWBUfoNyBX7HHJIJOb04JMXsoJfb63AOeMVvoXJQWVP_WhblitVfdwW_8-FcFPLAZEaFt_C-sgi2_3sE9aYTh3NZW1nGxjuCbenYRWaGv-dQcC1fplsRkDedbSwZ5bDWJRuOcDzYenUf9CNeVNA=="
         },
         {
             "title": "Boise -> Dublin",
@@ -258,27 +258,41 @@
             "flyTo": "DUB",
             "cityFrom": "Boise",
             "cityTo": "Dublin",
-            "nightsInDest": 13,
-            "price": 971.0,
+            "nightsInDest": 14,
+            "price": 974.0,
             "toDestStops": 1,
             "toReturnStops": 1,
-            "localDepartTime": "09/10/2023 10:55 AM",
-            "localReturnHomeTime": "09/24/2023 07:03 PM",
-            "url": "https://www.kiwi.com/deep?affilid=donwwrightcheap&currency=USD&flightsId=048d0a894c9a0000fbea312e_0%7C0a89125b4c9a4ca84219d13e_0%7C0a89125b4c9a4ca84219d13e_1%7C0a89048d4ca8000077d3d395_0&from=BOI&lang=en&passengers=1&to=DUB&booking_token=FWBaf9CoX3E74-rOF_rFuDF-Cl5cB1TjqZX0I54hG6X23y4pz5AUR9GitZXfciaxx_Q0edFeOYaRTpprnf_tBpNEw_yp96dlrV2TUAJY3Tla4WwXmBcpEhZ0tY2mTcaJh8yTxoXXCnfBUUa3om2bRFTi8kLMEmYBpEqvU4-llbdJdLXoXQoqIX4izGYJFlKHV0WV29ftoIkI8NE0SOuWiGjEDEHb700PPmnpK7G1M6hPw_w-VjpWo7E5ecmoDBZb3GO43gzMX05tq1Eu0xGZLmxbJaDWYcLWkx6Yhy8CUCNeXdFdlzCH1QsBPQEMfR6g0aZE-pfVe0mNfDOCFkPeZsaH3QFB0hg0ueLU_JRqHnaWsc3lhnwGA_kk411FtaM8D7MnL1wWnsVshvTn08hVOLUVrU0njUv6wkjG0LpuYhe3YKiAjWeCpYl0hfMMTfDQ9Y0-Gr0s9fZMM3N6Z1_mGXv8F-Id1MZrKU6hmTnnsb_MUv_cTROhC-Gg8a0wBg_rN_F2I9Uh1JAxAWSMABzp8R-ygvHCwZielVGp_MFxhrlG6VAMSoJIawMsOUVscKsjbAcidY5LqoacLzgBeAg9rdLwJ9e_YAE78zAKW7Na38OGaM2x5w3Q1ox998Ps27UZmaAjKfZbH7QQ2SQEJOLf31yNZS6e3qFOJ6XTBO11LWt3pwqPnleRoJXEi3Dog4BDReJpKmLGkoQfGNXXjN23vFHj8ClRx-BT99uHTpHUVJ45Scnl9IeFev_wNvPGrrd3ft5pOOxkVsxuI2KiwAtfaRUWW0BoxiJ9DK7h9dB7p5a_r_vUk5X7njxX_zhDaycu0TdqOghXR-Ai2NWDr4lWC25eoyNO5FgoQTDU411CzYH_R3JkkpnTsFbw5whFhC27VhDG9sFCQEFfpseUMmH6IPlUg12jEaPJJk4icYcJhgb6fV8PlVJtz6FI21KvKNatBl_tbm2JgNkr_5Ql_2z6OBEpOqavsxqe2PjL4YH6B4iUO3oz3PAtn04PSad3omNGahe4DgWfQ_HapE0QcL-7_VQ=="
+            "localDepartTime": "09/11/2023 03:45 PM",
+            "localReturnHomeTime": "09/26/2023 10:13 PM",
+            "url": "https://www.kiwi.com/deep?affilid=donwwrightcheap&currency=USD&flightsId=048d125b4c9b4caac30abaa9_0%7C048d125b4c9b4caac30abaa9_1%7C048d125b4c9b4caac30abaa9_2%7C048d125b4c9b4caac30abaa9_3&from=BOI&lang=en&passengers=1&to=DUB&booking_token=FhyUwPPH8lqPnGinbSpadqX0RVY9C1Xv7_sKgNsTDaCD0Gnx65BuHN71f0rqDp-cYTa1VoQeY3Acl0QZXEVJyU7qsHz8iznudYjZc6N_9AK2jvlPTTq-bJ85Z5kvDxN3xLpjzEIhWIVw_FTCH5p7dqeFpjwnwgIhDSjxzcolkOzcDzQ36BPhQTj3jVCIrI2hO788QhC06HR31ZCJ4uJ90D9PbpwU2wUsYEa1X_YY8uKygTXvFMuaRAmz16adCB3sjZ0sxjsuXR-h_6mKX6bl2n-re8V-HnzlnKJtEgCxddmI6tybcbxdoVHiXEzZYMjs1SEXhg0Jue5ccWoGpK7orUt86KH054vxZCQSvTAUS4Kz-O_gvk4opRtcvspa4XFZj8pMtl7q1TrRi10XjjY35hGSLwQsGKQ9STUDzHG2j8T5bqqAwRmymmuXcgUZmqkWPskF5EalvJPfeyBCjxbtweVlD4KzRrT8NWMvf333exNqExE-aL7mmhuZkehzjLCCPy6iS_QA4n7LTYZzZP1Uc10dZVOwVDeU9c6HAk_7K52KAS3P4GTU2VubqkAAEp6dzqhqo827s7H-gZwktHM3aR_SRX5OeIyakxGV7q-Yi0DDuAX7SYfeNmkWegnevM_cWux6hj7OIDImE1FmEN99lGU29rPr3Xp-HNLMiyuS6beT5HUo1yKMpc0ehHn86xKPCIadI4D0U0JK2vLlsN750aGMYVHobsX1fKh_fFniaIGbIRsumqW5EPRO3fQGEdDh5NJHSkr3pgPgLv_sZ_SeSG2_HCj8opnQLcEeV7KBEbNqe3KyUVX3XnhGSDJkdOVNrn_TYAEUCS7hOJSE1VeQqMfyJ77d1U516Ffbh_5hV9qMgZmBbH7uYiB3nBFLmlBNIzEaHHD_ccPpjyVTkKKcnlg=="
+        },
+        {
+            "title": "Boise -> Stockholm",
+            "flyFrom": "BOI",
+            "flyTo": "ARN",
+            "cityFrom": "Boise",
+            "cityTo": "Stockholm",
+            "nightsInDest": 10,
+            "price": 2085.0,
+            "toDestStops": 1,
+            "toReturnStops": 1,
+            "localDepartTime": "04/08/2024 08:40 AM",
+            "localReturnHomeTime": "04/19/2024 07:05 PM",
+            "url": "https://www.kiwi.com/deep?affilid=donwwrightcheap&currency=USD&flightsId=048d0a894d6d000052175125_0%7C0a8926024d6d4d786419cc2b_0%7C0a8926024d6d4d786419cc2b_1%7C0a89048d4d7800001392cf9f_0&from=BOI&lang=en&passengers=1&to=ARN&booking_token=FT2jsx2j28UKgla6z7wnqz9eQdQfz0Qb1EQIoTVKpWfYO6lGpSOdrh2yQVGkZ4esKMLleqiMLEyQupIcbzqQn9PMtchojq2wWUCiLdMBN-5hWc-A_GaEM78Ik_vihHhcCHFbA-gzc55curYCinGtJDOnbilg_pSQeHi2d-asrWhFFiLWtII8BQVTAL_qrmVGLo00OwskG1aU2sV6jKC2O_-tZ7SRrZnrMsAJo52YlSx3R-g9fn2Umgy62BNeC2q-ISO-lTdV7gvrTWbCidUy-2KEQQb9v_wrVOrzpNbfgBheIXkEzNipWdr4Htba15-DE-VW1f3x0UDqPyR5E-NxpOV0i-eEmQGRwVMpQeormDEUSyJWP8-wcfG39fSkMjAIdI2_YWAIcTWnmmQ2G6tqKiIOJtKYDUHDcrw9a21sL8rEAzD4WxsgJ76EDG5ZDRldByMJUkC-yhHrN5Vicr6f2dWnIemogNkbrB7EqquY4d5zRfOJQHeAxkMIzW4OwdBXgmNks6xfr-EfB3SglJMAuAcYv2NsZypVfs27Nyo82Sog56nS8xl07D233-G7BY7IgzLzivop_0GyFGEwsB6cKYGFW5dwTBG5n-8X9NzCh1miqruHJmJCcd8cynsRrNTT1ocvQ9CurqIaTE9FOdX6UIarvWlmH6X3-BeQseLny9oKqM5Yfc_oYiYrqKdIVF925r8Jn_re0Fi4yHvlmaCehmGWFhytv-YOnHhAR327-jWD4BrCH9bYHQsheeehBaqO_OeTM_DRwDhH1zxunbB8aeDteNjv7rmhUp26v5qKTk_VROyoJXdDfGEPu3vgyJfg2UWCh3vj47aCCp_bruadXr0NjaFgkHX2UIksytLOwflrMy1CtqnptDiTzx981ws9VhmXQUtfgX44RPhUekdMcRicFHZSnNb7BWDfOZX-BrABNTu8Kw0HsQ9bcbTSYehrViEWO_ePeqea0qPzLs38-xQ=="
         },
         {
             "title": "Boise -> Phoenix",
             "flyFrom": "BOI",
-            "flyTo": "AZA",
+            "flyTo": "PHX",
             "cityFrom": "Boise",
             "cityTo": "Phoenix",
-            "nightsInDest": 8,
-            "price": 129.0,
-            "toDestStops": 0,
-            "toReturnStops": 1,
-            "localDepartTime": "06/15/2023 07:46 PM",
-            "localReturnHomeTime": "06/23/2023 02:54 PM",
-            "url": "https://www.kiwi.com/deep?affilid=donwwrightcheap&currency=USD&flightsId=048d050b4c430000830d48bd_0%7C042e24464c4b0000ae3e72ea_0%7C2446048d4c4b00007d1cd9d3_0&from=BOI&lang=en&passengers=1&to=AZA&booking_token=FxOeOOQ4-OJf5rdrjpEBtoodmQOVXzO6U5VRocbGZ_xJVyx6UsyDaRAOB6M8aqAL47G8P7vPpMDwcBIgDAbWTnWGb8W2bikhWXLjv_s06xDBfTtYlvpKQHCk92NZuTlUyTRuvYL34KPhPwElnM_hzEePJElAny1ysWIVpUoCGO_K-9U_v1bAZoSU3XlQeH6Yf19TNiW5r_2AE0wUd84VkTggOCYdrCjRYf-nXztZVm0sYVXFk__Xa9nC5RymI5xfOyVKRer0A0ndhk94XITI4gu6PATLd2-Q3OeGKIGplAX8uagUbVP_KcYyVSYVp-4f64XG92JKzh3xwVIOUAWQugKboEJAmLtleoUthbqHEn4f3rQ6GuL9ufDbb9DJjcaHBON8TzmwrhkFYDgFezX2XW8AR9mdSuotrffCArviGYwG__MdR5QpyEXVuGDRR0pXYFy2HFeH6FDFDYzC5WdgyAhgtYnyaxQxWuVdhnEi40KiaxDXHOdbGF5fEE9UMobfeHWZPREU-Wp02fXozIGYFU3yHVlcZBKmUFupJ_5FgVpkoa70lyoHqJztFY8netSN4Pc_v7QYDSFd0ctDd7MfeeBos63E6TbBJ6xKRq5IC812AqiOacBd-Tf0DyCYKyTJVhbUvPToxKBFgfB44jDhqFh8to83KCAfQb-qm0hKLQwLadBjTuy_FmE6kYBZ9G6umKfrxyV1j-lcHEdkKQzQY4QV1FFPpHIh8PIau1u68YAjkh_ps-FxWH_6JEQ0AG55L0ZAcDlRAH_3GjJOjIyj0aAjOdSXrJ298h66hYKpj6CL79psoCzSdTQhj7raFmFTV5lHECs5cfBuyqAvkE3Zn4GyQjW3Akq_GtQFIcFXZKanD0Ljxd59Wn3qPDmAX-Ga1FKd2bFF8EsVYFr1loDV8B2LL2LiI6Z2BL0PBietfPjyGrkqhbB_rJ_d7uy2ArxaPllgR0O2BFR9Ts0yAlEbbCEmOI9ktwPIEtHQ5NJZaCZE="
+            "nightsInDest": 6,
+            "price": 141.0,
+            "toDestStops": 1,
+            "toReturnStops": 0,
+            "localDepartTime": "06/12/2023 03:44 PM",
+            "localReturnHomeTime": "06/18/2023 01:05 PM",
+            "url": "https://www.kiwi.com/deep?affilid=donwwrightcheap&currency=USD&flightsId=048d24464c400000253c0d09_0%7C2446042e4c40000088334c62_0%7C050b048d4c460000486f874f_0&from=BOI&lang=en&passengers=1&to=PHX&booking_token=Fczqczm3kjVjIfMp5jFB-pdCR8Ek2Q5MA3PlglT_9f0fLzqUuPVrqNOio-h5X0I0uC4ksL_yG2sR4mh5EPDdu8x8J2r8323uz-FLzazQmtnMS2D2lBOgwjJhHLWWl12uugpJ_KP4QZtNaHFWb3-tuyuObCaIDqTuqy33wExr1rb84y6M48gkKwjQdvHIVfHiHTeFyPoKz1byQyFBCsU9qb6zRYn2WUW8OB1jAfN_eyRAri8-tMnd831OqL6ekoSTc1MOwkDgmmiiS7Z1k5iPEVhCmSxJwV4Ns_Terz5IL2CEtQn_hzA7G4pzH629DhKovrk2wuROAQzsIos-KqtMBDB1EA_FKdMKGTz8G4XBLCrduFugBGpeyoH0OGANFuMoi6TtGjrOMuBjINolJQ7M8Wwm11TNt0V-a8-ULLX40iRNvhzZOS3zXqYQHU99oh2GkYiLYIlsngDIJQy8lF4ijcjgDkGg0G25hG1UsN-LQquIFJbSqJaDmzy-pS2mGc8MaRFQSi-ZeQTFHlVD-orMDdse52eVB7-eKHCEMMIdDroQ9xwyT3sq-zc3UaB-QlqHAt1AImNXKc77yvboghVLiCDPPPnAgYCta5wwNSaV0D77uct2AaM_sBVR7yEsjcUeDnPASJlzOxJd8rCO_NVa1O5pViMRHQbZSNiSJ11sj1QKWIKzYZeXoC2J6vbHglzfxFwgK-UB52nuztWxAV8E8xJl0vJ4sPHXJt-1OejV8wtA1m0437fMvueuOKD-D-kkfLvno-YeeuqEV5_bJsjD0tHu9CYJEGhuQtIChb5cEJFcktfB6hZVrRVJhGN5hlXA3Ds2pt_0ooF_EYw53qDF7i6OU89fxXaHAAlFhPb-NdSHI082ML1BN2VsoyU0rDP2xTkqFlOIkYNmwXcdyLlHOns-EqGMwvU44sN4abtkx3dMuwUMmhJwZQ_D2-RXzM3G3-zTpBXj0PKxBQ0L5vtdjlw=="
         },
         {
             "title": "Boise -> Honolulu",
@@ -287,12 +301,12 @@
             "cityFrom": "Boise",
             "cityTo": "Honolulu",
             "nightsInDest": 6,
-            "price": 386.0,
+            "price": 375.0,
             "toDestStops": 1,
             "toReturnStops": 1,
             "localDepartTime": "09/19/2023 08:00 AM",
             "localReturnHomeTime": "09/26/2023 02:25 PM",
-            "url": "https://www.kiwi.com/deep?affilid=donwwrightcheap&currency=USD&flightsId=048d09864ca30000add193b6_0%7C048d09864ca30000add193b6_1%7C0986048d4ca9000042c8a6dd_0%7C0986048d4ca9000042c8a6dd_1&from=BOI&lang=en&passengers=1&to=HNL&booking_token=F9Z7qrH0FBSCXZ21ResDT-PwKhOUjOOgE9yVeBgCJHp8BxpyM4-6Fai0IVWEtdbgix9PK4NPkQ2M4nuAw2oWLAJFQbbQ0LpfyVkmBQ0SBj0fgNlDV5EpU2KNSV-EyE7C50oxK3KQhKyn0UeX5laoBb6elc9Y0FeyzUp7UHW0INhhLl4EY4TGA9Y7RnRXth2i6vAGE2AtXK_woPa3CruRe78OPeY9oWfK-22xohfjb-nSvUgERTLcQB9_cxU5yt1TrP5BU1p-Yd5j1zDOt_KCdbstc8YI4o4UIPmSaXFtMF5OjvLuqFGZ2uKYxBq9aTa8UHAUTaPXk31z2Gxl_oHgfnMiz4pxVJRH4KpPJ7EOoeAMTGi9V1n45zBeydErQBoTtXWkDEP1ieKr-zCNclPcD9JsQDQOyfh1gE4TKYYhRfcmEbEZuti-gTgzaCZGdLGKwkkVK_o4xzoEnavcWrSLqqe3oRbbKObX7MTNWv5_35dGNJfcIglflsRnrM7gK5VsLZAGRLq8d4TVsITj3xSP02r1yR52D3dVBUUsURw8_nOtZUAQeJfSBofn78zBPBe1OcuVgp9Cc1KxmTMUqiL_QtHu_jWUz2evgQyyS9SyjUhY_wjNn5uYHlKEexMgNpGvZfOph032P9XRyEuS8U9PaiCVyh4GiMPEN4EkAjT4zfM3S58PUQ1HdIBv32MHPaN2WXyKV6lAMm3fbE4EHFRmVtjjt9DjwtQv0p-uAmcK6jCnFAagQRJnUNcoZjKJfv3E7encKjbsGF6iiy2lj9OtaRTwbv1sym3P6GgYJaXttLMsa3xGUrp2PZ_CGQonDBkt7F3D_rhhu4k-Ki8Oq0eve5ljkQR-tOm7ZH_aGCK3bjXaVxEOAgFHLl20MbOfrxNGEvl7kjSRUwicWbjGEwH_WsFPkR-HKXKbYV01EY82MWThkQydkvA4M6MgXIu_TFUhzks6VQCNAXfUYQNULzLqQoJyXkD9bzQmR4CrDaTbxl5g="
+            "url": "https://www.kiwi.com/deep?affilid=donwwrightcheap&currency=USD&flightsId=048d09864ca34ca986004336_0%7C048d09864ca34ca986004336_1%7C048d09864ca34ca986004336_2%7C048d09864ca34ca986004336_3&from=BOI&lang=en&passengers=1&to=HNL&booking_token=FIhiC4dBGVP_uSbYwIodTOdqN-WGeJfCQGo1MenCxTVvi0w_K2UVQKXLLP6D9XSBVJ11937hOoGg_5o3XxE_zWf9nC6WtZHkmjLfDEmSU3HzLRuQEsfDEagBbWT62dObsoMzQ0NWm1_3g2DY3ds-doWkEuvv3L2eo4PQys2p7t9bJ7TxxgV24aUIA_Kbn2NktH1JIf08jT9umMeM49P4w3KAVLuDpzbtDzNh6phoiGHis6KOQhdsElPseViNkprh8xDg3TImHpEpfQhDJ6PP6dtr6QKqAtXUFRctI_-zQJVm4JT7hZQY9wL87Fu_dcq2Aa3L0byfcDEToZh6FBGAqGMzYbn-Oag-Q-6Y415yLm2Z8YHe4CqsGv9G8tIJvZAVlf7FslTK1Y3wDE1Gvz1hx1iHkYG2EpxLyDpHug-nBQPq8W8J3Mw46_HQlMVld54MgShT0x3vTEFCGlTSc-eLRWG4I02WGEtqc4lC9zBnRLBzJga9SgV1PLIhTKYT4-RTErTU3iwwesCvwFodSzocMWwBERQsTGxW2V5oV0t-GMtna0BFH1g1HTE3pMtMw4Am7U-ZgqjxY9xDzutLFDwAY9oK0ds0NG9naQMX8IgdR_LVj43iq_PSMs1BEbdDEWsPiMR3uO4YnKtqjDN3ubeeyXkiJL52WaCDgQjf3pfF9HM5ZUYkRAnaa9qy7Heq681HaD87U589knss5LjKtATrn4pY7VDozks09dSu2BZRvLSD9IwxwMPdDb8Pwst26V1phcTAyeodti5xf-JJMeWpMYpRD17TQOnlWMqO1FmoZ_Uw8O2a73sbqmMguyBtnMNsXkYU4YrRqrEOcDN4SURudW2f9YVVhiqYU45gT_DQGm9g="
         },
         {
             "title": "Boise -> Auckland",
@@ -300,13 +314,13 @@
             "flyTo": "AKL",
             "cityFrom": "Boise",
             "cityTo": "Auckland",
-            "nightsInDest": 12,
-            "price": 1439.0,
+            "nightsInDest": 14,
+            "price": 1641.0,
             "toDestStops": 1,
             "toReturnStops": 1,
-            "localDepartTime": "02/13/2024 01:00 PM",
-            "localReturnHomeTime": "02/27/2024 11:49 PM",
-            "url": "https://www.kiwi.com/deep?affilid=donwwrightcheap&currency=USD&flightsId=048d243e4d360000e4b58b6d_0%7C243e0ca64d360000ff5fc571_0%7C0ca6243e4d440000f07d21ec_0%7C243e048d4d44000060275be9_0&from=BOI&lang=en&passengers=1&to=AKL&booking_token=Flo0n_l68ie2UWtxvNaxhKxllydT1cafYXGjC8Xy0OB6cs2zMu-FlsPqcElanmh-E_2MfZY6WCAaHMlzWrjjwTU1Xyx41g0JB4lxCA6UaMoHbtifoK2QtJRCtgrYm-dIUzw1xNIhwUbdRlEaSJJ4vg6-Pa7d6LZ7o4YZ8l7O66nlVpLKE9YegX3jOVInRS8IKOD5l2PNThkpcup4lTwQy3MVsHzwADJuBe7TYWuwcrcKZpXDJCKinsKBittroDGV5gJw-QINj68vFdu-jSaMbVPxfCzkWsQnazdb9PebU5wCLmIkVgY7A6atPus1agy-r-1YszraosMWbEH_RRIXtEjLw7jOTZeaDjKEKFllhYTYdXa75zKwWYwZ2YSgyz9PCp9q7gXTKjI9Kpk8quAwA8CJyt-ByBhGks8enJ4V68tAqeIREANzJzEpLRfAeOtStL3g2oxKKb0dx47ub5BHPr5Vs4KxCQsy3NsjVF_Y2QI9FJC_ssQyMCEL5X46AgyE0Zx_bQw_onQzLMFDzsjnG_XPa-l3dnkMl7DU4OuupplWsyV5b6liu61vcMLoqxND94MbsRnxSzGY7wRAtBxsw0JdJ8TBY2mmk6jnxa8L31VJPGdAfdioMU8xxPocEBVDfb2TV2fokGwJdyokEpQqY1uKPewj7e2Qbb4Mmov4ePKUf-p4uVLL7qcuoqtKRVbGdqae_veKr8QG08f5u1MDcdPdnhmY2IP2rFB5nYrZqlf0i6bum8RUJMyGrAtzly6mTzju1kvriYhI_s_0ZoVaU4mhfm9ZZELDXdNV7_Q_QvvLun2waudulHHkNhUUnBUwdkYMtFUz1uYVemcHFVnGU8_GIGj4nuCU8fK6NZrsIiahN6RKimeFSiz1Huv0PtnOOu4COXGtS103WouCUTHeIEwoaEgZnSMFvUvj0LgvPz85i_fEj_f0mYWP0ZCNjHhmXJxZeqRYKiN21gkjCEv-drkkOOLUGTaex1_EnBaKYqJRot6bpsBSPsNmNeLI4s-4Va4IXAiY1cSX8a2vOqcHJ4PS9BZE7O3LA6O5EKWAYs8G6K2l6SbucoNdOvhbiV_srPL3rTvZtR5KCPQZvrn61caEIf9auPiWAF8hslEI5ECCc2hxdC6SPXv0Iq8O1nCCV"
+            "localDepartTime": "06/20/2023 12:40 PM",
+            "localReturnHomeTime": "07/06/2023 04:41 PM",
+            "url": "https://www.kiwi.com/deep?affilid=donwwrightcheap&currency=USD&flightsId=048d243e4c480000eac1a9a4_0%7C243e0ca64c48000050f53e79_0%7C0ca60f9c4c5800002edd9179_0%7C0f9c048d4c580000681ddd34_0&from=BOI&lang=en&passengers=1&to=AKL&booking_token=F-nZaiYKN7yQCYI4xKurG-of03k-GVMnP-Ob-oxpMxhdkfPh8OTYaEg6N4nmQAAiC-rlNNBGsNtXe7qqelm2yxYkapzgVXEzxO0FpdJTf-XyLJui8xBUxPuvo2GhIcmn9SZJzOTgePqn9BGrmIH7eK18nMYZoOLu-6nD0Bw3z-0gOjVPksw3A8uvEhfoMrE77OOLPkASaFrkwCNzrJKt0pZZIrIx5lqH2l7Ms6xpN7NstzHTttsJGD8BGe-QizMim9iJgpC6JWh4Sn2pd4F1Non_YW3_vi7Vln8ph54Omkiu9afQgLoMRmzTxPN07-fYEmA_XIB0UYzcmOgdf5ig1EYn2QKVKOz-zSfMAwWCakv5DVmEXNk1CxRZF2TzO5Uyaa5evsAvplilUiyxM6nsUMk3yJixtjMNE8D_nCQzHQpf4fQSGZ2_ztQ_kFyo4hrdCvim4XT85eJNI8Q2n1Dgr4XXd0z1GDL4aTzkeqjW-igj3mwftuNSt_1w0RZxUG8BbPx4zlIJEWRrITZvjeI0aHEcpf7XQd3jX8j0y_dcXWMJGnN-J7ai0LnyAO80XnD61pQvM7Rx8wh6GrRVoHj_cK8J3xVbuTG2LTWJlPu9M3rvfgSKYqcj7uSpwmiWCrSjHtsTzXQWIxAsvvLJKZBPq2QI2pjj1zbJ_Ku2Qqx56e7hxTnemSOsBbk2sqqykltd5QtSt4aIu1lDwQ7_6V-gdh0AV5vOyxiithgNC7AX3eMAMB9BZwmqISOc_PDZkEl1DYprv_pNtEOXIeFtu-sjrt63szM0FZbKEFL1Mq4V8X8Ns2L4KZWEF6y6akVnk32mdgNmb5Ilq_BJRnl1yFo-sg6Mtx-9L2bnlNU5XYB__qaJb5jFkuR0FPXK00UfQsrI0pnmcnK5CQRydrY9nwN0obekQ-GG9_k1BHmdJZwsQh609WYMWpP0pjTzk7yoIPQ0w7wBzbe2IiUeAPrc5G2_6imJu1xDMa3W3yykQkmV1lzmp8qJ9PLo_-R9goeak28SmzLDVPuYpnO5WshJLMAc_P7ljUfh_OuP_a8O9lEDnml0Ztq-l1BdG5nQTwmVq9fhoJZaX9JenVANbu_MhFgenvw=="
         },
         {
             "title": "Boise -> Reykjavik",
@@ -314,13 +328,13 @@
             "flyTo": "KEF",
             "cityFrom": "Boise",
             "cityTo": "Reykjavik",
-            "nightsInDest": 14,
-            "price": 1069.0,
+            "nightsInDest": 10,
+            "price": 1144.0,
             "toDestStops": 1,
             "toReturnStops": 1,
-            "localDepartTime": "07/17/2023 10:55 AM",
-            "localReturnHomeTime": "08/01/2023 06:54 PM",
-            "url": "https://www.kiwi.com/deep?affilid=donwwrightcheap&currency=USD&flightsId=048d0a894c630000c55591c8_0%7C0a89062e4c634c7233e181bb_0%7C0a89062e4c634c7233e181bb_1%7C0a89048d4c72000086f7b59c_0&from=BOI&lang=en&passengers=1&to=KEF&booking_token=FrO1g44anOrq6SwESwm_f5FWbGK5y6qIpDsZSUJQEGKU218iSsxM3G8RlW9zxA4nNY2ojCfnTXn1RdorDxTZyvGVnGXw5s__WxFHeQA7NHdw4v54c_vjayaL-1iCUuhVBlVmzAoRyL3tChocKPRf0N2XsWFoTDZNeJtCWk_r1IxmX2ioIDJbujxUZmvYzl7HHLRXS5v3WuoaLa6Q1wQBpN4oVwOuT4rTWfXuheP1QoXDbiPwWMjgYyW_cYP9Q7wsRQDp4lo1aNxHcL49Wh10A6lZV-4Q-doQuNE_tt5Kk4Cfl_B9p_d4SHh4S4xZyg6P9DAYNHU84adK3aMEWNzuhnr8-LvnllYsNIBz54nvWjnxRBAOqqAcQ83N9RaJ7wC7j7K2mJ4uu3uFyRDOTwIFHGuNW0eAQNTJfhYU4-c5h6JBidqJEG6-pk3FudGt537c7oiPqMFp6dZBonpBEAhAClKuFrIFDskdPBzegR0CdAKr7MPQTXAV6r6xtdcymIuqNXRfxBS6p_wr_Dkbms3_-gr44oELKz53Ofl2x6KnALNOq6YwpvEh53UzFahSCLflAW8Z23phBPJs9lCqyKZoFWXpMR0VgjbDBWrEax3Q2oLi1DDay6u_pW00RP6CRJtSEfz6YueplA9t1EcleYA6lDUXZqqWML-r_wM62BrxYax2gADXrgwLI1Pf6vWKUh0n9GDa9ObKY0fris5s-czmUR_EXi4SwLxJJ-o2STrzDWvuap8qPFlzXdfcMqCoIkx7LK58ukgG1sHkfZFAVJ1YKXI9Rf_tof4KAwkZpZznea108eJ9j7pdZQrt1_s7FJdDpLFgz1dh7p6_fruczaM7F36UwDMmTjCgJRJShWfyXk5WQ84PQjlBo0D18fYb7BWUu1NuixGL6UF1cgP_kN091LDKZCni5vbG3UI6qfgtr5z_zZ5S44kI4gdVXc2hckG9J3wxYnjcGwJ_PldhAbQP73hr1piQZ7_EZU_QFms6fgY3clnPUjQSraBQWgE2keH5inwYPtHomRhgv-FCBv_P3BegR0cPLaKJx1GlOzDOxe9s="
+            "localDepartTime": "08/22/2023 12:39 PM",
+            "localReturnHomeTime": "09/02/2023 06:52 PM",
+            "url": "https://www.kiwi.com/deep?affilid=donwwrightcheap&currency=USD&flightsId=048d0a894c870000ac4bb2f6_0%7C0a89062e4c874c9242892534_0%7C0a89062e4c874c9242892534_1%7C0a89048d4c92000003fd1605_0&from=BOI&lang=en&passengers=1&to=KEF&booking_token=FAcrEPHDcinxCZvh3Uiw1sZsjSJQfXYhnS53iLkTwJkN_rGuv7mvb6m_IwFRKn-E0I3x5fjt3j_3g1_-DS9jhZPF6R8cg6u65oSWSDhHhVMjOUzfqaiw4d61olfr6dmDDcFAdxDhmTEl-z6ulI-Bm_ns-k5itvBL9pPUSC496BxS1QeTcOgJI7onzvnr-lFK9JEtFiK82bOMGa6MmFEKX5Bhc3R9cN7LEPgoXcXmROjBP52mPCmtVNHawX0CFs1o8HG0i_ZKo8yBo0jrhoWmFGznbBlUujHRSFF0YSw6ih12cp7sD-Y9vSC4XW6Sgqnl-04T77Z_Qo4BHMVg-vhmjZjuDQCPrB-tn5o1ShJBrKh6YxRIuwe5S5RtZSXWzLggnvoDfsN3Lqwvh9cWWwd4K9mKvOzMoXltrmLcvK71qAf5ZDxFQNXhr0TwhTBvV4W5Qn0XUMZNnTFDWXOhLpGhxQJnFZltXm6Yh7r49tQqrtpu2lD29sHiHd4u6fJIj6-zcFEOG8MA-hpIPgQtt462rb9jwneS4eJNJ0QipCf17ZIAaonjzRoG5pvYkc7F3Lfn80eyBZ4SSXzLH01B7A5jK5oP9TUPp_ypcqt2Zy54tJB1i9rZQe0WQcOZB4_7o7IJIc5kbFNgTgTX4QFrbueU7Nx29a9boMiK0er0_koEEvSa7wYX_BAkv8Vzs4FYS0UhsWFGuL1UTV3n8U-0vTNTMd2ezxHdlGwi9rtQqW17H2d6yFb9pzLZzKP2JVdHm33tL4_hV7sk0xMn4fn3MaB-P8xSfP2QkuNJFzz460gQXarR1zE4r6ctYx6G3V8i_hRaVsiYQexgEAG7DDCi_bkYnmtHO_lQ7cDjk-ws40kZAK5oR0Vcmr7xIvJFYaZUDnVA97ZS8V8KcShv-5zu80BGAtc4sTxobXceI_0vADgBGRCZB33IPdWfXz9urxdhRKgqP3G_fFdLAG083Kd-P_dlhHqdCnK6efg9xbDNpwRiGC5KaZFQ-JPfxXWehlheuYxjL"
         },
         {
             "title": "Boise -> Kauai",
@@ -332,10 +346,10 @@
             "price": 435.0,
             "toDestStops": 1,
             "toReturnStops": 1,
-            "localDepartTime": "10/18/2023 12:15 PM",
-            "localReturnHomeTime": "10/26/2023 09:54 AM",
-            "url": "https://www.kiwi.com/deep?affilid=donwwrightcheap&currency=USD&flightsId=048d03504cc04cc7602ac504_0%7C048d03504cc04cc7602ac504_1%7C048d03504cc04cc7602ac504_2%7C048d03504cc04cc7602ac504_3&from=BOI&lang=en&passengers=1&to=LIH&booking_token=FQ6YZWhAnA53wyHb65iBW5ZnYO9oHBlOILMQuwVSJZDGfRcSazWLa2n1YzNQl5NgAc8EcZQiWFBgo9-4C53B_2yix9gWXSMlOvukgOCCts4C-keEXKVXtMFQfMXZL37lWtZVbs5jJS-rX3QU10p-cGusLqtRlbBauYWJME8RUBUhZeEPtKgyazTaLNxVgKupBI3ECxBFtVVxdZthAHM1aEUOTkkBnPS0XG69096mmizMxN_3aRehK053p5uHttI2TVgGLOFB96LtckT2VMdoaSVzxGXN3aO_XG3KIEx-TPEIunehOYBo--BWYWgXBKXixZ0La5eu7wlvCtWRtfXhx2MTJ1DQlCe4Gawy9nS92wuMtZQWXwVT8rIHfn-hRLaR3Xouuoh4nFEIzrkgPa6HLKpnGJlFqCC0uTTpsEtOHBw7qNviZuCD3qfZXZB6q69TRq_fJfJtUdz0e0WDmbEj45ZLUOjHlYQYhe6zQZc4Wo6NrWYq2xHzX0Wl8ZqTX7skhD1gCLUgNBA6nUjjH6Ndg8mtemlnM2xW8i4nrI3HkoI8s-pv8lFbl9SY5gfLO5t1mkAjl6Th1z-TQTkyaBZHkYGC7SIsSCE5fB_RZDQiU4nAUSXfBG88JB_ytKv2QF_8uxMpUIFZ0IaqVSVGn06RJ3Ar3iIYi2WhX5_vq1yMeLFPs-ndsBOfwtbfSHBIv3eBAX39R1UcHbliW5bv3ztVU0i53imunwh9L04kzAV7qjqSAB8VL6G_m0RnviKKZLRCk0H4itO2wLagqGxxil4QP3mxKJ4gAoAG4NdSTm6yL0Pc="
+            "localDepartTime": "08/21/2023 02:37 PM",
+            "localReturnHomeTime": "08/29/2023 11:34 AM",
+            "url": "https://www.kiwi.com/deep?affilid=donwwrightcheap&currency=USD&flightsId=048d03504c864c8dc7069af1_0%7C048d03504c864c8dc7069af1_1%7C048d03504c864c8dc7069af1_2%7C048d03504c864c8dc7069af1_3&from=BOI&lang=en&passengers=1&to=LIH&booking_token=Fk4LYrHHE100lDfrieL1oc-K9Nf1B7o_i7QN1EXZsgYKrgBCzi3qBmhH2TwimQ7M5qwh0m2VPwrb4B3tjQLJzQULCruUlGonL0L88WobczrxcD5ECphF21YgIA47lUFVSNin7nFmIp4kQXCN_4WINelCbcwgKIe6XCm3SoJollG5DVNQdCCSjwXRiYpAEtpSCJHu9JF-7y6lvHW-MjbFzoYX3HSMH3ZljOhGKcoG1IQbZusjp1Vtq5yvD_0Aywnu5ldwnibDOBxi7aqg7beV8VgCPx4PO4X1q7CIUnFRiCRejmLEhcJmkNYwsZEGmeYVM6uZ3ivyNYLR6exs42_kyBaKpfemUyQZp4PXsj1opDx3IhBHKOYBuQA80p-ezgeEmh0h9llU-UxMsKTFBipOxSlLwV-nhqICmCHwz37VcphLQ9J29nwGaLQLvIv59d5vuWV1wtHOn3ajd1Bp2nha9WZ95ELx9Dmb_Pm0-3Jo07Q1dG2om6pzfYPVYFAzl2Imdo9w2aSeUu9_QFWjF48Q5OjQxSJSVZhs1-Ju0KENsaQTcwfoRDektq1r2hrwmMVnIqYVa0IUHegoTUIv_5WJNQSKW3FVoxWBIUya-y0aSGHqry16HoEXngw_BdVFhI3PN8A7HSMmASDVC05NFtrPjCnCw3hWHQW1nTSjEF7TGJA2KsIX0BZhHV3-tv_CBYcvNGC2TTiTTA_xn2m5LXZ4aS1wJmTVSV5BSi4Yz5D-EegXJb6tBgstsaVc9or6ZzJZJyw0daMGtfK-O5EEyVlcSRAS-BRxTcf4pOgpLYlNQH_XF2AA8MQf9uPNlt11FSo2O"
         }
     ],
-    "generatedTime": "27/05/2023 13:00:02"
+    "generatedTime": "28/05/2023 13:00:01"
 }
