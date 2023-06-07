@@ -2,19 +2,23 @@
     "label": "BOI->PHX(dt: relative(year), ms: 1, n: 5-8)",
     "airport": "AZA",
     "average": {
-        "average": 130.7,
-        "start": "06/06/2023 12:00:01 MDT",
-        "end": "06/05/2023 12:00:01 MDT"
+        "average": 132.1818181818182,
+        "start": "06/07/2023 12:00:01 MDT",
+        "end": "05/27/2023 12:00:01 MDT"
     },
     "min": {
         "price": 115.0,
         "date": "05/30/2023 12:00:02 MDT"
     },
     "max": {
-        "price": 144.0,
-        "date": "06/06/2023 12:00:01 MDT"
+        "price": 147.0,
+        "date": "06/07/2023 12:00:01 MDT"
     },
     "snapshot": [
+        {
+            "price": 147.0,
+            "date": "06/07/2023 12:00:01 MDT"
+        },
         {
             "price": 144.0,
             "date": "06/06/2023 12:00:01 MDT"
