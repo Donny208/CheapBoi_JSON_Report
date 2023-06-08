@@ -2,7 +2,7 @@
     "label": "BOI->JFK(dt: relative(year), ms: 2, n: 5-8)",
     "airport": "JFK",
     "average": {
-        "price": 340.14285714285717,
+        "price": 340.14,
         "start": "06/07/2023 12:00:01 MDT",
         "end": "05/18/2023 12:00:02 MDT"
     },

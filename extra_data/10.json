@@ -2,7 +2,7 @@
     "label": "BOI->LAS(dt: relative(year), ms: 0, n: 3-6)",
     "airport": "LAS",
     "average": {
-        "price": 46.08695652173913,
+        "price": 46.09,
         "start": "06/07/2023 12:00:01 MDT",
         "end": "05/16/2023 23:00:41 MDT"
     },

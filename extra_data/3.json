@@ -2,7 +2,7 @@
     "label": "BOI->ORD(dt: relative(year), ms: 0, n: 5-7)",
     "airport": "ORD",
     "average": {
-        "price": 283.4347826086956,
+        "price": 283.43,
         "start": "06/07/2023 12:00:01 MDT",
         "end": "05/16/2023 23:00:41 MDT"
     },

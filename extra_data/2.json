@@ -2,7 +2,7 @@
     "label": "BOI->BRU(dt: relative(year), ms: 2, n: 10-15)",
     "airport": "BRU",
     "average": {
-        "price": 1240.5238095238096,
+        "price": 1240.52,
         "start": "06/07/2023 12:00:01 MDT",
         "end": "05/18/2023 12:00:02 MDT"
     },

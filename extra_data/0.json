@@ -2,7 +2,7 @@
     "label": "BOI->AKL(dt: relative(year), ms: 2, n: 10-15)",
     "airport": "AKL",
     "average": {
-        "price": 1507.1904761904761,
+        "price": 1507.19,
         "start": "06/07/2023 12:00:01 MDT",
         "end": "05/18/2023 12:00:02 MDT"
     },
