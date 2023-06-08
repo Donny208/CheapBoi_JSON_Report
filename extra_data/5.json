@@ -2,7 +2,7 @@
     "label": "BOI->DUB(dt: relative(year), ms: 2, n: 10-15)",
     "airport": "DUB",
     "average": {
-        "average": 925.5714285714286,
+        "price": 925.5714285714286,
         "start": "06/07/2023 12:00:01 MDT",
         "end": "05/18/2023 12:00:02 MDT"
     },

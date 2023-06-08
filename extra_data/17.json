@@ -2,7 +2,7 @@
     "label": "BOI->PAR(dt: relative(year), ms: 4, n: 10-14)",
     "airport": "CDG",
     "average": {
-        "average": 800.2857142857143,
+        "price": 800.2857142857143,
         "start": "06/07/2023 12:00:01 MDT",
         "end": "05/18/2023 12:00:02 MDT"
     },

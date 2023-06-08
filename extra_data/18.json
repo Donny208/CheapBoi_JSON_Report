@@ -2,7 +2,7 @@
     "label": "BOI->PHX(dt: relative(year), ms: 1, n: 5-8)",
     "airport": "AZA",
     "average": {
-        "average": 132.1818181818182,
+        "price": 132.1818181818182,
         "start": "06/07/2023 12:00:01 MDT",
         "end": "05/27/2023 12:00:01 MDT"
     },

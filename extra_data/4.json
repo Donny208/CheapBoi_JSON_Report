@@ -2,7 +2,7 @@
     "label": "BOI->DFW(dt: relative(year), ms: 1, n: 5-8)",
     "airport": "DFW",
     "average": {
-        "average": 376.23809523809524,
+        "price": 376.23809523809524,
         "start": "06/07/2023 12:00:01 MDT",
         "end": "05/18/2023 12:00:02 MDT"
     },

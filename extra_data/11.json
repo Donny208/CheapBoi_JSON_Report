@@ -2,7 +2,7 @@
     "label": "BOI->LON(dt: relative(year), ms: 4, n: 10-14)",
     "airport": "LGW",
     "average": {
-        "average": 737.1,
+        "price": 737.1,
         "start": "06/07/2023 12:00:01 MDT",
         "end": "05/18/2023 12:00:02 MDT"
     },

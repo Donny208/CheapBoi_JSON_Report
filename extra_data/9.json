@@ -2,7 +2,7 @@
     "label": "BOI->LIH(dt: relative(year), ms: 1, n: 5-8)",
     "airport": "LIH",
     "average": {
-        "average": 425.6190476190476,
+        "price": 425.6190476190476,
         "start": "06/07/2023 12:00:01 MDT",
         "end": "05/18/2023 12:00:02 MDT"
     },

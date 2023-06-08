@@ -2,7 +2,7 @@
     "label": "BOI->FRA(dt: relative(year), ms: 2, n: 10-14)",
     "airport": "FRA",
     "average": {
-        "average": 934.0,
+        "price": 934.0,
         "start": "06/07/2023 12:00:01 MDT",
         "end": "05/18/2023 12:00:02 MDT"
     },

@@ -2,7 +2,7 @@
     "label": "BOI->TYO(dt: relative(year), ms: 3, n: 10-14)",
     "airport": "NRT",
     "average": {
-        "average": 1004.0,
+        "price": 1004.0,
         "start": "06/07/2023 12:00:01 MDT",
         "end": "06/07/2023 12:00:01 MDT"
     },

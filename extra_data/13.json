@@ -2,7 +2,7 @@
     "label": "BOI->MIA(dt: relative(year), ms: 2, n: 5-8)",
     "airport": "MIA",
     "average": {
-        "average": 212.71428571428572,
+        "price": 212.71428571428572,
         "start": "06/07/2023 12:00:01 MDT",
         "end": "05/18/2023 12:00:02 MDT"
     },
