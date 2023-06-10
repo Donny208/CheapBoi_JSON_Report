@@ -2,8 +2,8 @@
     "label": "BOI->PHX(dt: relative(year), ms: 1, n: 5-8)",
     "airport": "PHX",
     "average": {
-        "price": 149.83,
-        "start": "06/09/2023 12:00:02 MDT",
+        "price": 149.77,
+        "start": "06/10/2023 12:00:02 MDT",
         "end": "05/18/2023 12:00:02 MDT"
     },
     "min": {
@@ -15,6 +15,10 @@
         "date": "05/23/2023 12:00:01 MDT"
     },
     "snapshot": [
+        {
+            "price": 149.0,
+            "date": "06/10/2023 12:00:02 MDT"
+        },
         {
             "price": 149.0,
             "date": "06/09/2023 12:00:02 MDT"
