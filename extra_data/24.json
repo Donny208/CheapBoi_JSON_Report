@@ -1,22 +1,22 @@
 {
-    "label": "BOI->SAN(dt: relative(year), ms: 1, n: 5-8)",
-    "airport": "SAN",
+    "label": "BOI->SFO(dt: relative(year), ms: 1, n: 5-8)",
+    "airport": "SFO",
     "average": {
-        "price": 122.0,
+        "price": 126.0,
         "start": "06/20/2023 12:39:15 MDT",
         "end": "06/20/2023 12:39:15 MDT"
     },
     "min": {
-        "price": 122.0,
+        "price": 126.0,
         "date": "06/20/2023 12:39:15 MDT"
     },
     "max": {
-        "price": 122.0,
+        "price": 126.0,
         "date": "06/20/2023 12:39:15 MDT"
     },
     "snapshot": [
         {
-            "price": 122.0,
+            "price": 126.0,
             "date": "06/20/2023 12:39:15 MDT"
         }
     ]
