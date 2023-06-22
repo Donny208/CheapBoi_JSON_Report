@@ -2,19 +2,23 @@
     "label": "BOI->SAN(dt: relative(year), ms: 1, n: 5-8)",
     "airport": "SAN",
     "average": {
-        "price": 122.0,
-        "start": "06/21/2023 12:00:02 MDT",
+        "price": 121.67,
+        "start": "06/22/2023 12:00:01 MDT",
         "end": "06/20/2023 12:39:15 MDT"
     },
     "min": {
-        "price": 122.0,
-        "date": "06/20/2023 12:39:15 MDT"
+        "price": 121.0,
+        "date": "06/22/2023 12:00:01 MDT"
     },
     "max": {
         "price": 122.0,
         "date": "06/20/2023 12:39:15 MDT"
     },
     "snapshot": [
+        {
+            "price": 121.0,
+            "date": "06/22/2023 12:00:01 MDT"
+        },
         {
             "price": 122.0,
             "date": "06/21/2023 12:00:02 MDT"
