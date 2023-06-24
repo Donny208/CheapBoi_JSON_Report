@@ -2,8 +2,8 @@
     "label": "BOI->LAX(dt: relative(year), ms: 1, n: 5-8)",
     "airport": "LAX",
     "average": {
-        "price": 131.5,
-        "start": "06/23/2023 12:00:01 MDT",
+        "price": 133.4,
+        "start": "06/24/2023 12:00:01 MDT",
         "end": "06/20/2023 12:39:15 MDT"
     },
     "min": {
@@ -11,10 +11,14 @@
         "date": "06/20/2023 12:39:15 MDT"
     },
     "max": {
-        "price": 140.0,
-        "date": "06/23/2023 12:00:01 MDT"
+        "price": 141.0,
+        "date": "06/24/2023 12:00:01 MDT"
     },
     "snapshot": [
+        {
+            "price": 141.0,
+            "date": "06/24/2023 12:00:01 MDT"
+        },
         {
             "price": 140.0,
             "date": "06/23/2023 12:00:01 MDT"
