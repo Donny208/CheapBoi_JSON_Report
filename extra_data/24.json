@@ -2,19 +2,23 @@
     "label": "BOI->SFO(dt: relative(year), ms: 1, n: 5-8)",
     "airport": "SFO",
     "average": {
-        "price": 126.18,
-        "start": "06/30/2023 12:00:02 MDT",
+        "price": 126.0,
+        "start": "07/01/2023 12:00:01 MDT",
         "end": "06/20/2023 12:39:15 MDT"
     },
     "min": {
-        "price": 125.0,
-        "date": "06/22/2023 12:00:01 MDT"
+        "price": 124.0,
+        "date": "07/01/2023 12:00:01 MDT"
     },
     "max": {
         "price": 130.0,
         "date": "06/23/2023 12:00:01 MDT"
     },
     "snapshot": [
+        {
+            "price": 124.0,
+            "date": "07/01/2023 12:00:01 MDT"
+        },
         {
             "price": 128.0,
             "date": "06/30/2023 12:00:02 MDT"
