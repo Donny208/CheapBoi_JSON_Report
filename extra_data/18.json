@@ -2,19 +2,23 @@
     "label": "BOI->OAK(dt: relative(year), ms: 1, n: 5-8)",
     "airport": "OAK",
     "average": {
-        "price": 137.0,
-        "start": "07/01/2023 12:00:01 MDT",
+        "price": 135.85,
+        "start": "07/02/2023 12:00:02 MDT",
         "end": "06/20/2023 12:39:15 MDT"
     },
     "min": {
-        "price": 137.0,
-        "date": "06/20/2023 12:39:15 MDT"
+        "price": 122.0,
+        "date": "07/02/2023 12:00:02 MDT"
     },
     "max": {
         "price": 137.0,
         "date": "06/20/2023 12:39:15 MDT"
     },
     "snapshot": [
+        {
+            "price": 122.0,
+            "date": "07/02/2023 12:00:02 MDT"
+        },
         {
             "price": 137.0,
             "date": "07/01/2023 12:00:01 MDT"
