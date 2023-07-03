@@ -2,8 +2,8 @@
     "label": "BOI->IAH(dt: relative(year), ms: 1, n: 5-8)",
     "airport": "IAH",
     "average": {
-        "price": 198.62,
-        "start": "07/02/2023 12:00:02 MDT",
+        "price": 198.86,
+        "start": "07/03/2023 12:00:02 MDT",
         "end": "06/20/2023 12:39:15 MDT"
     },
     "min": {
@@ -15,6 +15,10 @@
         "date": "06/20/2023 12:39:15 MDT"
     },
     "snapshot": [
+        {
+            "price": 202.0,
+            "date": "07/03/2023 12:00:02 MDT"
+        },
         {
             "price": 174.0,
             "date": "07/02/2023 12:00:02 MDT"
