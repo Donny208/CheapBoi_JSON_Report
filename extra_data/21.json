@@ -2,19 +2,23 @@
     "label": "BOI->PDX(dt: relative(year), ms: 1, n: 5-8)",
     "airport": "PDX",
     "average": {
-        "price": 154.87,
-        "start": "07/04/2023 12:00:02 MDT",
+        "price": 154.31,
+        "start": "07/05/2023 12:00:02 MDT",
         "end": "06/20/2023 12:39:15 MDT"
     },
     "min": {
-        "price": 147.0,
-        "date": "06/23/2023 12:00:01 MDT"
+        "price": 146.0,
+        "date": "07/05/2023 12:00:02 MDT"
     },
     "max": {
         "price": 177.0,
         "date": "06/22/2023 12:00:01 MDT"
     },
     "snapshot": [
+        {
+            "price": 146.0,
+            "date": "07/05/2023 12:00:02 MDT"
+        },
         {
             "price": 149.0,
             "date": "07/04/2023 12:00:02 MDT"
