@@ -2,8 +2,8 @@
     "label": "BOI->LON(dt: relative(year), ms: 4, n: 10-14)",
     "airport": "LHR",
     "average": {
-        "price": 722.6,
-        "start": "08/24/2023 12:00:01 MDT",
+        "price": 721.5,
+        "start": "08/25/2023 12:00:02 MDT",
         "end": "05/19/2023 12:00:01 MDT"
     },
     "min": {
@@ -15,6 +15,10 @@
         "date": "06/11/2023 12:00:01 MDT"
     },
     "snapshot": [
+        {
+            "price": 705.0,
+            "date": "08/25/2023 12:00:02 MDT"
+        },
         {
             "price": 729.0,
             "date": "08/24/2023 12:00:01 MDT"
