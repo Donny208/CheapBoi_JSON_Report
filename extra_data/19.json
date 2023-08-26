@@ -2,19 +2,23 @@
     "label": "BOI->LGA(dt: relative(year), ms: 1, n: 5-8)",
     "airport": "LGA",
     "average": {
-        "price": 304.0,
-        "start": "08/25/2023 12:00:02 MDT",
+        "price": 303.67,
+        "start": "08/26/2023 12:00:01 MDT",
         "end": "08/18/2023 12:00:02 MDT"
     },
     "min": {
-        "price": 304.0,
-        "date": "08/18/2023 12:00:02 MDT"
+        "price": 301.0,
+        "date": "08/26/2023 12:00:01 MDT"
     },
     "max": {
         "price": 304.0,
         "date": "08/18/2023 12:00:02 MDT"
     },
     "snapshot": [
+        {
+            "price": 301.0,
+            "date": "08/26/2023 12:00:01 MDT"
+        },
         {
             "price": 304.0,
             "date": "08/25/2023 12:00:02 MDT"
