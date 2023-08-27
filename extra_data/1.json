@@ -2,8 +2,8 @@
     "label": "BOI->BCN(dt: relative(year), ms: 2, n: 7-14)",
     "airport": "BCN",
     "average": {
-        "price": 708.56,
-        "start": "08/26/2023 12:00:01 MDT",
+        "price": 709.4,
+        "start": "08/27/2023 12:00:02 MDT",
         "end": "08/18/2023 12:00:02 MDT"
     },
     "min": {
@@ -15,6 +15,10 @@
         "date": "08/26/2023 12:00:01 MDT"
     },
     "snapshot": [
+        {
+            "price": 717.0,
+            "date": "08/27/2023 12:00:02 MDT"
+        },
         {
             "price": 717.0,
             "date": "08/26/2023 12:00:01 MDT"
