@@ -2,8 +2,8 @@
     "label": "BOI->TYO(dt: relative(year), ms: 3, n: 10-14)",
     "airport": "NRT",
     "average": {
-        "price": 1181.0,
-        "start": "02/28/2024 12:00:02 MDT",
+        "price": 1194.1,
+        "start": "02/29/2024 12:00:01 MDT",
         "end": "06/07/2023 12:00:01 MDT"
     },
     "min": {
@@ -15,6 +15,10 @@
         "date": "02/21/2024 12:00:02 MDT"
     },
     "snapshot": [
+        {
+            "price": 1443.0,
+            "date": "02/29/2024 12:00:01 MDT"
+        },
         {
             "price": 1521.0,
             "date": "02/28/2024 12:00:02 MDT"
