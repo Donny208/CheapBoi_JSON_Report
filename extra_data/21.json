@@ -2,8 +2,8 @@
     "label": "BOI->PAR(dt: relative(year), ms: 4, n: 10-14)",
     "airport": "ORY",
     "average": {
-        "price": 777.08,
-        "start": "04/11/2024 12:00:01 MDT",
+        "price": 767.21,
+        "start": "04/12/2024 12:00:02 MDT",
         "end": "09/21/2023 12:00:02 MDT"
     },
     "min": {
@@ -15,6 +15,10 @@
         "date": "09/21/2023 12:00:02 MDT"
     },
     "snapshot": [
+        {
+            "price": 639.0,
+            "date": "04/12/2024 12:00:02 MDT"
+        },
         {
             "price": 637.0,
             "date": "04/11/2024 12:00:01 MDT"
