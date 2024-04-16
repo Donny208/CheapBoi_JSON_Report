@@ -2,8 +2,8 @@
     "label": "BOI->NYC(dt: relative(year), ms: 2, n: 5-7)",
     "airport": "JFK",
     "average": {
-        "price": 314.56,
-        "start": "04/15/2024 12:00:02 MDT",
+        "price": 321.88,
+        "start": "04/16/2024 12:00:02 MDT",
         "end": "10/05/2023 12:00:02 MDT"
     },
     "min": {
@@ -11,10 +11,14 @@
         "date": "11/29/2023 12:00:01 MDT"
     },
     "max": {
-        "price": 404.0,
-        "date": "04/15/2024 12:00:02 MDT"
+        "price": 439.0,
+        "date": "04/16/2024 12:00:02 MDT"
     },
     "snapshot": [
+        {
+            "price": 439.0,
+            "date": "04/16/2024 12:00:02 MDT"
+        },
         {
             "price": 404.0,
             "date": "04/15/2024 12:00:02 MDT"
